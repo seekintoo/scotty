@@ -11,9 +11,11 @@
 4 unit testing
 5 isready for scot and dependancies within ns
 
+reflair
+game
+rfproxy? probably no recorded future thing
 
-
-docker image
+docker image new build
 ----
 Parallel::Prefork 0.18
 Domain::PublicSuffix 0.19
