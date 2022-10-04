@@ -1,0 +1,14 @@
+Install mongodb/cluster somewhere using SCRAM-SHA-1 auth mode
+Create a database called scot-prod
+Create a user called admin with password admin with role dbOwner
+Create indexes using upstream-scot\install\src\mongodb\indexes.js
+Create admin user (scot user not db user) using upstream-scot\install\src\mongodb\admin_user.js
+Create admin password (scot user not db user) using (from \upstream-scot\docker-configs\mongodb\set_mongodb_config.sh):
+
+    db.user.update({username:'admin'}, {$set:{pwhash:'{X-PBKDF2}HMACSHA2+512:AAAnEA:nCpmgiazs0SRt8Z53T9I:Z97YBqqp7H+uDl+oti+buLxayC9k+geSv3/zY63kctusQWqVJl5h+rx6t07LhhYM+hO9Fk8FpuzEhKx73v3zmw=='}}, {multi:true})
+
+    #password is default 'admin'
+
+mongodb can be created in k8s with infra\mongodb.yml
+
+Connection string for database goes in upstream-scot\docker-configs\scot\scot.cfg.pl for now to be includued in image

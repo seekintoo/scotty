@@ -1,0 +1,13 @@
+1 Install opensearch
+2 
+
+
+
+
+PUT /scot?pretty=true
+
+
+
+
+
+

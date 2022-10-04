@@ -1,0 +1,29 @@
+1 GEOIP on scot image
+
+    RUN cd /usr/share/GeoIP/ && \ 
+        curl -k -s -S https://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz | tar -xz && mv GeoLite2-City_*/GeoLite2-City.mmdb ./GeoIP2-City.mmdb && \ 
+        curl -k -s -S https://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz | tar -xz && mv GeoLite2-Country_*/GeoLite2-Country.mmdb ./GeoIP2-Country.mmdb && \ 
+        curl -k -s -S https://geolite.maxmind.com/download/geoip/database/GeoLite2-ASN.tar.gz | tar -xz && mv GeoLite2-ASN_*/GeoLite2-ASN.mmdb ./GeoIP2-ISP.mmdb && \ 
+        rm -rf Geo*.tar.gz
+
+2 mongodb connection strings as secrets
+3 scot logs to stdout. tried once, not working :(
+4 unit testing
+5 isready for scot and dependancies within ns
+
+
+
+docker image
+----
+Parallel::Prefork 0.18
+Domain::PublicSuffix 0.19
+HTML::FormatText 2.16
+Net::IPv6Addr 1.02
+SVG::Sparkline 1.12
+utf8::all 0.024
+List::Uniq 0.23
+Mozilla::PublicSuffix 1.0.6
+
+tar xzf ./install/src/perl/File-Magic-0.01.tar.gz -C /tmp
+(cd /tmp/File-Magic-0.01; perl Makefile.PL; make; make test; make install)
+sudo make install

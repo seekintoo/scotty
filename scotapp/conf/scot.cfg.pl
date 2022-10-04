@@ -5,7 +5,7 @@
     version     => '3.20.0',
 
     # set this to hostname of the scot server
-    servername  => '127.0.0.1',
+    servername  => '$ENV{HOSTNAME}',
 
     # the mode can be prod or dev
     mode        => 'prod',
@@ -41,8 +41,8 @@
 
     share_after_time    => 10, # minutes
 
-    stomp_host  => "localhost",
-    stomp_port  => 61613,
+    stomp_host  => "192.168.49.2",
+    stomp_port  => 32688,
     topic       => "/topic/scot",
 
     # location and site_identifier (future use)
@@ -97,7 +97,7 @@
             class   => 'Scot::Util::MongoFactory',
             config  => {
                 db_name         => 'scot-prod',
-                host            => 'mongodb://localhost',
+                host            => 'mongodb://mongoadmin:mongoadmin@192.168.49.2:30484/scot-prod?authSource=admin',
                 write_safety    => 1,
                 find_master     => 1,
             },
@@ -106,20 +106,20 @@
             attr    => "es",
             class   => "Scot::Util::ElasticSearch",
             config  => {
-                nodes   => [qw(localhost:9200)],
+                nodes   => [qw(https://admin:admin@192.168.49.2:32006)],
             },
         },
         {
             attr    => 'esproxy',
             class   => 'Scot::Util::ESProxy',
             config  => {
-                nodes       => [ qw(localhost:9200) ],
+                nodes       => [ qw(192.168.49.2) ],
                 max_workers => 1,
-                proto       => 'http',
-                servername  => 'localhost',
-                serverport  => 9200,
-                username    => ' ',
-                password    => ' ',
+                proto       => 'https',
+                servername  => 'admin:admin@192.168.49.2',
+                serverport  => 32006,
+                username    => 'admin',
+                password    => 'admin',
             },
         },
         {
@@ -133,8 +133,8 @@
             class   => 'Scot::Util::Messageq',
             config  => {
                 destination => "scot",
-                stomp_host  => "localhost",
-                stomp_port  => 61613,
+                stomp_host  => "192.168.49.2",
+                stomp_port  => 32688,
             },
         },
         ## uncomment and configure if  you wish to use LDAP

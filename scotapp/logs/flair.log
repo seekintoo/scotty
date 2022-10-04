@@ -1,0 +1,1729 @@
+2022/10/03 22:43:53   DEBUG [737971] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 22:43:54    INFO [737971]       Worker.pm:  123 Starting PreFork Flair Worker
+2022/10/03 22:43:54   DEBUG [737975]       Worker.pm:  129 [737975] Spawned Worker
+2022/10/03 22:43:54   DEBUG [737976]       Worker.pm:  129 [737976] Spawned Worker
+2022/10/03 22:43:54   DEBUG [737977]       Worker.pm:  129 [737977] Spawned Worker
+2022/10/03 22:43:54   DEBUG [737978]       Worker.pm:  129 [737978] Spawned Worker
+2022/10/03 22:43:54   ERROR [737976]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:54   ERROR [737977]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:54   ERROR [737978]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:54   ERROR [737975]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:55   DEBUG [737979]       Worker.pm:  129 [737979] Spawned Worker
+2022/10/03 22:43:55   DEBUG [737980]       Worker.pm:  129 [737980] Spawned Worker
+2022/10/03 22:43:55   DEBUG [737981]       Worker.pm:  129 [737981] Spawned Worker
+2022/10/03 22:43:55   ERROR [737979]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:55   DEBUG [737982]       Worker.pm:  129 [737982] Spawned Worker
+2022/10/03 22:43:55   ERROR [737980]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:55   ERROR [737981]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:55   ERROR [737982]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:56   DEBUG [737983]       Worker.pm:  129 [737983] Spawned Worker
+2022/10/03 22:43:56   DEBUG [737984]       Worker.pm:  129 [737984] Spawned Worker
+2022/10/03 22:43:56   ERROR [737983]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:56   DEBUG [737985]       Worker.pm:  129 [737985] Spawned Worker
+2022/10/03 22:43:56   ERROR [737984]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:56   DEBUG [737986]       Worker.pm:  129 [737986] Spawned Worker
+2022/10/03 22:43:56   ERROR [737985]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:56   ERROR [737986]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:58   DEBUG [737987]       Worker.pm:  129 [737987] Spawned Worker
+2022/10/03 22:43:58   DEBUG [737988]       Worker.pm:  129 [737988] Spawned Worker
+2022/10/03 22:43:58   ERROR [737987]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:58   DEBUG [737989]       Worker.pm:  129 [737989] Spawned Worker
+2022/10/03 22:43:58   ERROR [737988]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:58   ERROR [737989]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:43:58   DEBUG [737990]       Worker.pm:  129 [737990] Spawned Worker
+2022/10/03 22:43:58   ERROR [737990]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 23:14:42   DEBUG [743054] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 23:14:43   DEBUG [743054]  Enrichments.pm:   51 Building Enrichments...
+2022/10/03 23:14:44   DEBUG [743054]    Responder.pm:  110 Building STOMP connection
+2022/10/03 23:14:44   DEBUG [743054]    Responder.pm:  140 Starting Responder Flair daemon /topic/scot
+2022/10/03 23:14:52   DEBUG [743054]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'subscription' => '16648604840',
+          'persistent' => 'true',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:55:-1:1:7',
+          'priority' => '4',
+          'destination' => '/topic/scot',
+          'amq-msg-type' => 'text',
+          'content-length' => '152',
+          'timestamp' => '1664860492630',
+          'expires' => '0'
+        };
+2022/10/03 23:14:52   DEBUG [743054]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'action' => 'created',
+          'guid' => '7A1E79D6-43A3-11ED-BE20-639B0E759A8E',
+          'hostname' => 'scot-dev',
+          'pid' => 726982,
+          'data' => {
+                      'who' => 'admin',
+                      'type' => 'alertgroup',
+                      'id' => 33
+                    }
+        };
+2022/10/03 23:14:52   DEBUG [743054]    Responder.pm:  150  +++ worker 743099 started to handle created on alertgroup 33
+2022/10/03 23:14:52   DEBUG [743099]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'action' => 'created',
+          'guid' => '7A1E79D6-43A3-11ED-BE20-639B0E759A8E',
+          'hostname' => 'scot-dev',
+          'pid' => 726982,
+          'data' => {
+                      'who' => 'admin',
+                      'type' => 'alertgroup',
+                      'id' => 33
+                    }
+        };
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:   52 processing message: $VAR1 = {
+          'action' => 'created',
+          'guid' => '7A1E79D6-43A3-11ED-BE20-639B0E759A8E',
+          'hostname' => 'scot-dev',
+          'pid' => 726982,
+          'data' => {
+                      'who' => 'admin',
+                      'type' => 'alertgroup',
+                      'id' => 33
+                    }
+        };
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:   63 [Wkr 743099] Processing message created alertgroup 33 from admin
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:   71 --- created message ---
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  106 processing alertgroup 33
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  113 asking scot for /alertgroup/33/alert
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  117 Alerts in AG:$VAR1 = [
+          {
+            'entry_count' => 0,
+            'groups' => {
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ],
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ]
+                        },
+            'created' => 1664860492,
+            'updated' => 1664860492,
+            'subject' => 'External HREF in Email',
+            'alertgroup' => 33,
+            'id' => 72,
+            'tlp' => 'unset',
+            'data' => {
+                        'MAIL_TO' => 'br549@sandia.gov',
+                        'HREFS' => 'http://spmiller.org/news/please_read.html',
+                        'columns' => [
+                                       'MAIL_FROM',
+                                       'MAIL_TO',
+                                       'HREFS',
+                                       'SUBJECT'
+                                     ],
+                        'MAIL_FROM' => 'amlegit@partner.net',
+                        'SUBJECT' => 'Groundbreaking research!'
+                      },
+            'status' => 'open',
+            'columns' => [],
+            'parsed' => 0,
+            'promotion_id' => 0,
+            'data_with_flair' => {},
+            'location' => 'snl',
+            'when' => 1664860492,
+            'owner' => 'scot-admin'
+          },
+          {
+            'location' => 'snl',
+            'data_with_flair' => {},
+            'owner' => 'scot-admin',
+            'when' => 1664860492,
+            'parsed' => 0,
+            'promotion_id' => 0,
+            'id' => 73,
+            'alertgroup' => 33,
+            'data' => {
+                        'MAIL_TO' => 'tbruner@sandia.gov',
+                        'HREFS' => 'https://www.aa.edu/athletics/schedule',
+                        'columns' => [
+                                       'MAIL_FROM',
+                                       'MAIL_TO',
+                                       'HREFS',
+                                       'SUBJECT'
+                                     ],
+                        'MAIL_FROM' => 'scbrb@aa.edu',
+                        'SUBJECT' => 'Schedule for next week'
+                      },
+            'columns' => [],
+            'status' => 'open',
+            'tlp' => 'unset',
+            'subject' => 'External HREF in Email',
+            'entry_count' => 0,
+            'groups' => {
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ],
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ]
+                        },
+            'created' => 1664860492,
+            'updated' => 1664860492
+          },
+          {
+            'created' => 1664860492,
+            'updated' => 1664860492,
+            'groups' => {
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ],
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ]
+                        },
+            'entry_count' => 0,
+            'subject' => 'External HREF in Email',
+            'id' => 74,
+            'alertgroup' => 33,
+            'tlp' => 'unset',
+            'columns' => [],
+            'status' => 'open',
+            'data' => {
+                        'columns' => [
+                                       'MAIL_FROM',
+                                       'MAIL_TO',
+                                       'HREFS',
+                                       'SUBJECT'
+                                     ],
+                        'HREFS' => 'https://youtu.be/JAUoeqvedMo',
+                        'MAIL_TO' => 'fmilszx@sandia.gov',
+                        'SUBJECT' => 'Can not wait!',
+                        'MAIL_FROM' => 'bubba@bbn.com'
+                      },
+            'parsed' => 0,
+            'promotion_id' => 0,
+            'data_with_flair' => {},
+            'location' => 'snl',
+            'when' => 1664860492,
+            'owner' => 'scot-admin'
+          }
+        ];
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  194 Flairing Alert 72
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  198     Alert data is $VAR1 = {
+          'MAIL_TO' => 'br549@sandia.gov',
+          'HREFS' => 'http://spmiller.org/news/please_read.html',
+          'columns' => [
+                         'MAIL_FROM',
+                         'MAIL_TO',
+                         'HREFS',
+                         'SUBJECT'
+                       ],
+          'MAIL_FROM' => 'amlegit@partner.net',
+          'SUBJECT' => 'Groundbreaking research!'
+        };
+2022/10/03 23:14:52    WARN [743099]        Flair.pm:  209 WEIRD! MAIL_TO is not an ARRAY is $VAR1 = 'br549@sandia.gov';
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE br549@sandia.gov
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  161          Leaf Node content = br549@sandia.gov
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  217 Parsing br549@sandia.gov.
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:52   DEBUG [743099]        Regex.pm:  215 Found 5 regexes
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:52   DEBUG [743099]        Regex.pm:  242 Found 14 regexes
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  482 deobsfucated = sandia.gov
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  372 match validated email br549@sandia.gov
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'br549@sandia.gov',
+                            'type' => 'email'
+                          }
+                        ],
+          'text' => 'br549@sandia.gov
+',
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>'
+        };
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  302 Flair for MAIL_TO is now <div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>
+2022/10/03 23:14:52    WARN [743099]        Flair.pm:  209 WEIRD! HREFS is not an ARRAY is $VAR1 = 'http://spmiller.org/news/please_read.html';
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE http://spmiller.org/news/please_read.html
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  161          Leaf Node content = http://spmiller.org/news/please_read.html
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  217 Parsing http://spmiller.org/news/please_read.html.
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  544 Domain Action on spmiller.org
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  482 deobsfucated = spmiller.org
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  548 domain is spmiller.org after deobsfucation
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  579 trying to get root domain spmiller.org
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  553 We have valid domain with root: spmiller.org
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  372 match validated domain spmiller.org
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>',
+          'entities' => [
+                          {
+                            'value' => 'spmiller.org',
+                            'type' => 'domain'
+                          }
+                        ],
+          'text' => 'http://spmiller.org/news/please_read.html
+'
+        };
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  302 Flair for HREFS is now <div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>
+2022/10/03 23:14:52    WARN [743099]        Flair.pm:  209 WEIRD! MAIL_FROM is not an ARRAY is $VAR1 = 'amlegit@partner.net';
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE amlegit@partner.net
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  161          Leaf Node content = amlegit@partner.net
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  217 Parsing amlegit@partner.net.
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  482 deobsfucated = partner.net
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  372 match validated email amlegit@partner.net
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'partner.net',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'amlegit@partner.net',
+                            'type' => 'email'
+                          }
+                        ],
+          'text' => 'amlegit@partner.net
+',
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>'
+        };
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  302 Flair for MAIL_FROM is now <div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>
+2022/10/03 23:14:52    WARN [743099]        Flair.pm:  209 WEIRD! SUBJECT is not an ARRAY is $VAR1 = 'Groundbreaking research!';
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE Groundbreaking research!
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  161          Leaf Node content = Groundbreaking research!
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  217 Parsing Groundbreaking research!.
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'Groundbreaking research!
+',
+          'flair' => '<div>Groundbreaking research!</div>'
+        };
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  302 Flair for SUBJECT is now <div>Groundbreaking research!</div>
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  127 new alert: $VAR1 = {
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'br549@sandia.gov',
+                            'type' => 'email'
+                          },
+                          {
+                            'value' => 'spmiller.org',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'partner.net',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'amlegit@partner.net',
+                            'type' => 'email'
+                          }
+                        ],
+          'parsed' => 1,
+          'id' => 72,
+          'data_with_flair' => {
+                                 'HREFS' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>',
+                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                 'SUBJECT' => '<div>Groundbreaking research!</div>',
+                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>'
+                               }
+        };
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  194 Flairing Alert 73
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  198     Alert data is $VAR1 = {
+          'MAIL_TO' => 'tbruner@sandia.gov',
+          'HREFS' => 'https://www.aa.edu/athletics/schedule',
+          'columns' => [
+                         'MAIL_FROM',
+                         'MAIL_TO',
+                         'HREFS',
+                         'SUBJECT'
+                       ],
+          'MAIL_FROM' => 'scbrb@aa.edu',
+          'SUBJECT' => 'Schedule for next week'
+        };
+2022/10/03 23:14:52    WARN [743099]        Flair.pm:  209 WEIRD! MAIL_TO is not an ARRAY is $VAR1 = 'tbruner@sandia.gov';
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:52   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE tbruner@sandia.gov
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  161          Leaf Node content = tbruner@sandia.gov
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  217 Parsing tbruner@sandia.gov.
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  482 deobsfucated = sandia.gov
+2022/10/03 23:14:52   DEBUG [743099]    Processor.pm:  372 match validated email tbruner@sandia.gov
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'sandia.gov',
+                            'type' => 'domain'
+                          },
+                          {
+                            'type' => 'email',
+                            'value' => 'tbruner@sandia.gov'
+                          }
+                        ],
+          'text' => 'tbruner@sandia.gov
+',
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for MAIL_TO is now <div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>
+2022/10/03 23:14:53    WARN [743099]        Flair.pm:  209 WEIRD! HREFS is not an ARRAY is $VAR1 = 'https://www.aa.edu/athletics/schedule';
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE https://www.aa.edu/athletics/schedule
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  161          Leaf Node content = https://www.aa.edu/athletics/schedule
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  217 Parsing https://www.aa.edu/athletics/schedule.
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  544 Domain Action on www.aa.edu
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  482 deobsfucated = www.aa.edu
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  548 domain is www.aa.edu after deobsfucation
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  579 trying to get root domain www.aa.edu
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  553 We have valid domain with root: aa.edu
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  372 match validated domain www.aa.edu
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.aa.edu'
+                          }
+                        ],
+          'text' => 'https://www.aa.edu/athletics/schedule
+'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for HREFS is now <div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>
+2022/10/03 23:14:53    WARN [743099]        Flair.pm:  209 WEIRD! MAIL_FROM is not an ARRAY is $VAR1 = 'scbrb@aa.edu';
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE scbrb@aa.edu
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  161          Leaf Node content = scbrb@aa.edu
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  217 Parsing scbrb@aa.edu.
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  482 deobsfucated = aa.edu
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  372 match validated email scbrb@aa.edu
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>',
+          'text' => 'scbrb@aa.edu
+',
+          'entities' => [
+                          {
+                            'value' => 'aa.edu',
+                            'type' => 'domain'
+                          },
+                          {
+                            'type' => 'email',
+                            'value' => 'scbrb@aa.edu'
+                          }
+                        ]
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for MAIL_FROM is now <div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>
+2022/10/03 23:14:53    WARN [743099]        Flair.pm:  209 WEIRD! SUBJECT is not an ARRAY is $VAR1 = 'Schedule for next week';
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE Schedule for next week
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  161          Leaf Node content = Schedule for next week
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  217 Parsing Schedule for next week.
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'Schedule for next week
+',
+          'flair' => '<div>Schedule for next week</div>'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for SUBJECT is now <div>Schedule for next week</div>
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  127 new alert: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'sandia.gov',
+                            'type' => 'domain'
+                          },
+                          {
+                            'type' => 'email',
+                            'value' => 'tbruner@sandia.gov'
+                          },
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.aa.edu'
+                          },
+                          {
+                            'value' => 'aa.edu',
+                            'type' => 'domain'
+                          },
+                          {
+                            'type' => 'email',
+                            'value' => 'scbrb@aa.edu'
+                          }
+                        ],
+          'id' => 73,
+          'parsed' => 1,
+          'data_with_flair' => {
+                                 'SUBJECT' => '<div>Schedule for next week</div>',
+                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>',
+                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>',
+                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>'
+                               }
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  194 Flairing Alert 74
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  198     Alert data is $VAR1 = {
+          'columns' => [
+                         'MAIL_FROM',
+                         'MAIL_TO',
+                         'HREFS',
+                         'SUBJECT'
+                       ],
+          'HREFS' => 'https://youtu.be/JAUoeqvedMo',
+          'MAIL_TO' => 'fmilszx@sandia.gov',
+          'SUBJECT' => 'Can not wait!',
+          'MAIL_FROM' => 'bubba@bbn.com'
+        };
+2022/10/03 23:14:53    WARN [743099]        Flair.pm:  209 WEIRD! HREFS is not an ARRAY is $VAR1 = 'https://youtu.be/JAUoeqvedMo';
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE https://youtu.be/JAUoeqvedMo
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  161          Leaf Node content = https://youtu.be/JAUoeqvedMo
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  217 Parsing https://youtu.be/JAUoeqvedMo.
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  544 Domain Action on youtu.be
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  482 deobsfucated = youtu.be
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  548 domain is youtu.be after deobsfucation
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  579 trying to get root domain youtu.be
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  553 We have valid domain with root: youtu.be
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  372 match validated domain youtu.be
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>',
+          'entities' => [
+                          {
+                            'value' => 'youtu.be',
+                            'type' => 'domain'
+                          }
+                        ],
+          'text' => 'https://youtu.be/JAUoeqvedMo
+'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for HREFS is now <div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>
+2022/10/03 23:14:53    WARN [743099]        Flair.pm:  209 WEIRD! MAIL_TO is not an ARRAY is $VAR1 = 'fmilszx@sandia.gov';
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE fmilszx@sandia.gov
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  161          Leaf Node content = fmilszx@sandia.gov
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  217 Parsing fmilszx@sandia.gov.
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  482 deobsfucated = sandia.gov
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  372 match validated email fmilszx@sandia.gov
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'fmilszx@sandia.gov
+',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'fmilszx@sandia.gov',
+                            'type' => 'email'
+                          }
+                        ],
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for MAIL_TO is now <div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>
+2022/10/03 23:14:53    WARN [743099]        Flair.pm:  209 WEIRD! SUBJECT is not an ARRAY is $VAR1 = 'Can not wait!';
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE Can not wait!
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  161          Leaf Node content = Can not wait!
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  217 Parsing Can not wait!.
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>Can not wait!</div>',
+          'text' => 'Can not wait!
+'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for SUBJECT is now <div>Can not wait!</div>
+2022/10/03 23:14:53    WARN [743099]        Flair.pm:  209 WEIRD! MAIL_FROM is not an ARRAY is $VAR1 = 'bubba@bbn.com';
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  220 WORKING ON CELL VALUE bubba@bbn.com
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  161          Leaf Node content = bubba@bbn.com
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  217 Parsing bubba@bbn.com.
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  482 deobsfucated = bbn.com
+2022/10/03 23:14:53   DEBUG [743099]    Processor.pm:  372 match validated email bubba@bbn.com
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>',
+          'entities' => [
+                          {
+                            'value' => 'bbn.com',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'bubba@bbn.com',
+                            'type' => 'email'
+                          }
+                        ],
+          'text' => 'bubba@bbn.com
+'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  302 Flair for MAIL_FROM is now <div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  127 new alert: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'youtu.be',
+                            'type' => 'domain'
+                          },
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'fmilszx@sandia.gov',
+                            'type' => 'email'
+                          },
+                          {
+                            'value' => 'bbn.com',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'bubba@bbn.com',
+                            'type' => 'email'
+                          }
+                        ],
+          'parsed' => 1,
+          'id' => 74,
+          'data_with_flair' => {
+                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>',
+                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>',
+                                 'SUBJECT' => '<div>Can not wait!</div>'
+                               }
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  140 updating with $VAR1 = {
+          'alerts' => [
+                        {
+                          'entities' => [
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'sandia.gov'
+                                          },
+                                          {
+                                            'value' => 'br549@sandia.gov',
+                                            'type' => 'email'
+                                          },
+                                          {
+                                            'value' => 'spmiller.org',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'partner.net',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'amlegit@partner.net',
+                                            'type' => 'email'
+                                          }
+                                        ],
+                          'parsed' => 1,
+                          'id' => 72,
+                          'data_with_flair' => {
+                                                 'HREFS' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>',
+                                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                                 'SUBJECT' => '<div>Groundbreaking research!</div>',
+                                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>'
+                                               }
+                        },
+                        {
+                          'entities' => [
+                                          {
+                                            'value' => 'sandia.gov',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'type' => 'email',
+                                            'value' => 'tbruner@sandia.gov'
+                                          },
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'www.aa.edu'
+                                          },
+                                          {
+                                            'value' => 'aa.edu',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'type' => 'email',
+                                            'value' => 'scbrb@aa.edu'
+                                          }
+                                        ],
+                          'id' => 73,
+                          'parsed' => 1,
+                          'data_with_flair' => {
+                                                 'SUBJECT' => '<div>Schedule for next week</div>',
+                                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>',
+                                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>',
+                                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>'
+                                               }
+                        },
+                        {
+                          'entities' => [
+                                          {
+                                            'value' => 'youtu.be',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'sandia.gov'
+                                          },
+                                          {
+                                            'value' => 'fmilszx@sandia.gov',
+                                            'type' => 'email'
+                                          },
+                                          {
+                                            'value' => 'bbn.com',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'bubba@bbn.com',
+                                            'type' => 'email'
+                                          }
+                                        ],
+                          'parsed' => 1,
+                          'id' => 74,
+                          'data_with_flair' => {
+                                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>',
+                                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>',
+                                                 'SUBJECT' => '<div>Can not wait!</div>'
+                                               }
+                        }
+                      ],
+          'updated' => 1664860493,
+          'parsed' => 1,
+          'id' => 33,
+          'type' => 'alertgroup'
+        };
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  152 update alertgroup
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  158 doing mongo update
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  163 after alertgroup update
+2022/10/03 23:14:53   DEBUG [743099]     Messageq.pm:   67 Creating STOMP client
+2022/10/03 23:14:53   DEBUG [743099]        Flair.pm:  144 Done processing alertgroup 33
+2022/10/03 23:14:53   DEBUG [743054]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'content-length' => '157',
+          'amq-msg-type' => 'text',
+          'destination' => '/topic/scot',
+          'priority' => '4',
+          'persistent' => 'true',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:64:-1:1:1',
+          'subscription' => '16648604840',
+          'expires' => '0',
+          'timestamp' => '1664860493431'
+        };
+2022/10/03 23:14:53   DEBUG [743054]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'action' => 'updated',
+          'hostname' => 'scot-dev',
+          'pid' => 743099,
+          'guid' => '7A9EBFBA-43A3-11ED-807A-58DA0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'id' => 33,
+                      'who' => 'scot-flair'
+                    }
+        };
+2022/10/03 23:14:53   DEBUG [743054]    Responder.pm:  150  +++ worker 743103 started to handle updated on alertgroup 33
+2022/10/03 23:14:53   DEBUG [743103]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'action' => 'updated',
+          'hostname' => 'scot-dev',
+          'pid' => 743099,
+          'guid' => '7A9EBFBA-43A3-11ED-807A-58DA0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'id' => 33,
+                      'who' => 'scot-flair'
+                    }
+        };
+2022/10/03 23:14:53   DEBUG [743103]        Flair.pm:   52 processing message: $VAR1 = {
+          'action' => 'updated',
+          'hostname' => 'scot-dev',
+          'pid' => 743099,
+          'guid' => '7A9EBFBA-43A3-11ED-807A-58DA0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'id' => 33,
+                      'who' => 'scot-flair'
+                    }
+        };
+2022/10/03 23:14:53   DEBUG [743103]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:14:53   DEBUG [743099]    Responder.pm:  226 === worker 743099 status is 1
+2022/10/03 23:14:53   ERROR [743099]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:14:53   DEBUG [743103]        Flair.pm:   63 [Wkr 743103] Processing message updated alertgroup 33 from scot-flair
+2022/10/03 23:14:53   DEBUG [743103]        Flair.pm:   66 I guess I sent this message, skipping...
+2022/10/03 23:14:53   DEBUG [743103]    Responder.pm:  226 === worker 743103 status is skipping self message
+2022/10/03 23:14:53   ERROR [743103]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:14:53   DEBUG [743054]    Responder.pm:  162  +++ worker 743099 finished handling created on alertgroup 33. STATUS = 0
+2022/10/03 23:14:53   DEBUG [743054]    Responder.pm:  162  +++ worker 743103 finished handling updated on alertgroup 33. STATUS = 0
+2022/10/03 23:14:57   DEBUG [743054]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'subscription' => '16648604840',
+          'persistent' => 'true',
+          'priority' => '4',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:65:-1:1:4',
+          'destination' => '/topic/scot',
+          'amq-msg-type' => 'text',
+          'content-length' => '152',
+          'timestamp' => '1664860497994',
+          'expires' => '0'
+        };
+2022/10/03 23:14:57   DEBUG [743054]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'action' => 'created',
+          'pid' => 726981,
+          'hostname' => 'scot-dev',
+          'guid' => '7D50CFE6-43A3-11ED-8315-629B0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'id' => 34,
+                      'who' => 'admin'
+                    }
+        };
+2022/10/03 23:14:58   DEBUG [743054]    Responder.pm:  150  +++ worker 743109 started to handle created on alertgroup 34
+2022/10/03 23:14:58   DEBUG [743109]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'action' => 'created',
+          'pid' => 726981,
+          'hostname' => 'scot-dev',
+          'guid' => '7D50CFE6-43A3-11ED-8315-629B0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'id' => 34,
+                      'who' => 'admin'
+                    }
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:   52 processing message: $VAR1 = {
+          'action' => 'created',
+          'pid' => 726981,
+          'hostname' => 'scot-dev',
+          'guid' => '7D50CFE6-43A3-11ED-8315-629B0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'id' => 34,
+                      'who' => 'admin'
+                    }
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:   63 [Wkr 743109] Processing message created alertgroup 34 from admin
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:   71 --- created message ---
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  106 processing alertgroup 34
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  113 asking scot for /alertgroup/34/alert
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  117 Alerts in AG:$VAR1 = [
+          {
+            'tlp' => 'unset',
+            'data' => {
+                        'length' => '0',
+                        'status_code' => 500,
+                        'uri' => '/lookup.php?q=y;insert from users username="foo" ',
+                        'content_disposition' => 'text/plain',
+                        'src' => '50.203.149.4',
+                        'method' => 'GET',
+                        'columns' => [
+                                       'src',
+                                       'status_code',
+                                       'method',
+                                       'hostname',
+                                       'uri',
+                                       'referer',
+                                       'content_disposition',
+                                       'length'
+                                     ],
+                        'referer' => 'http://www.osito.org/create_an_injection.html',
+                        'hostname' => 'sittingduck.sandia.gov'
+                      },
+            'columns' => [],
+            'status' => 'open',
+            'alertgroup' => 34,
+            'id' => 75,
+            'entry_count' => 0,
+            'groups' => {
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ],
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ]
+                        },
+            'updated' => 1664860497,
+            'created' => 1664860497,
+            'subject' => 'SQL Injection Attempts',
+            'when' => 1664860497,
+            'owner' => 'scot-admin',
+            'data_with_flair' => {},
+            'location' => 'snl',
+            'promotion_id' => 0,
+            'parsed' => 0
+          },
+          {
+            'id' => 76,
+            'alertgroup' => 34,
+            'columns' => [],
+            'status' => 'open',
+            'data' => {
+                        'columns' => [
+                                       'src',
+                                       'status_code',
+                                       'method',
+                                       'hostname',
+                                       'uri',
+                                       'referer',
+                                       'content_disposition',
+                                       'length'
+                                     ],
+                        'method' => 'GET',
+                        'hostname' => 'sittingduck.sandia.gov',
+                        'referer' => 'http://www.osito.org/create_an_injection.html',
+                        'length' => '346',
+                        'uri' => '/lookup.php?q=y;insert into users username="foo" ',
+                        'status_code' => 200,
+                        'src' => '50.203.149.4',
+                        'content_disposition' => 'text/plain'
+                      },
+            'tlp' => 'unset',
+            'subject' => 'SQL Injection Attempts',
+            'updated' => 1664860497,
+            'created' => 1664860497,
+            'entry_count' => 0,
+            'groups' => {
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ],
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ]
+                        },
+            'location' => 'snl',
+            'data_with_flair' => {},
+            'owner' => 'scot-admin',
+            'when' => 1664860497,
+            'parsed' => 0,
+            'promotion_id' => 0
+          }
+        ];
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  194 Flairing Alert 75
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  198     Alert data is $VAR1 = {
+          'length' => '0',
+          'status_code' => 500,
+          'uri' => '/lookup.php?q=y;insert from users username="foo" ',
+          'content_disposition' => 'text/plain',
+          'src' => '50.203.149.4',
+          'method' => 'GET',
+          'columns' => [
+                         'src',
+                         'status_code',
+                         'method',
+                         'hostname',
+                         'uri',
+                         'referer',
+                         'content_disposition',
+                         'length'
+                       ],
+          'referer' => 'http://www.osito.org/create_an_injection.html',
+          'hostname' => 'sittingduck.sandia.gov'
+        };
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! length is not an ARRAY is $VAR1 = '0';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE 0
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = 0
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing 0.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]        Regex.pm:  215 Found 5 regexes
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Regex.pm:  242 Found 14 regexes
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>0</div>',
+          'text' => '0
+'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for length is now <div>0</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! status_code is not an ARRAY is $VAR1 = 500;
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE 500
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = 500
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing 500.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => '500
+',
+          'flair' => '<div>500</div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for status_code is now <div>500</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! uri is not an ARRAY is $VAR1 = '/lookup.php?q=y;insert from users username="foo" ';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE /lookup.php?q=y;insert from users username="foo" 
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = /lookup.php?q=y;insert from users username="foo" 
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing /lookup.php?q=y;insert from users username="foo" .
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on lookup.php
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = lookup.php
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is lookup.php after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain lookup.php
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  338 false match of domain
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>',
+          'text' => '/lookup.php?q=y;insert from users username="foo"
+'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for uri is now <div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! content_disposition is not an ARRAY is $VAR1 = 'text/plain';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE text/plain
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = text/plain
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing text/plain.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'text/plain
+',
+          'flair' => '<div>text/plain</div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for content_disposition is now <div>text/plain</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! src is not an ARRAY is $VAR1 = '50.203.149.4';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing 50.203.149.4.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on 50.203.149
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = 50.203.149
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is 50.203.149 after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain 50.203.149
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  338 false match of domain
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  372 match validated ipaddr 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+          'text' => '50.203.149.4
+',
+          'entities' => [
+                          {
+                            'value' => '50.203.149.4',
+                            'type' => 'ipaddr'
+                          }
+                        ]
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for src is now <div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! method is not an ARRAY is $VAR1 = 'GET';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE GET
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = GET
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing GET.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'GET
+',
+          'flair' => '<div>GET</div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for method is now <div>GET</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! referer is not an ARRAY is $VAR1 = 'http://www.osito.org/create_an_injection.html';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE http://www.osito.org/create_an_injection.html
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = http://www.osito.org/create_an_injection.html
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing http://www.osito.org/create_an_injection.html.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is www.osito.org after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  553 We have valid domain with root: osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  372 match validated domain www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'www.osito.org',
+                            'type' => 'domain'
+                          }
+                        ],
+          'text' => 'http://www.osito.org/create_an_injection.html
+',
+          'flair' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for referer is now <div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! hostname is not an ARRAY is $VAR1 = 'sittingduck.sandia.gov';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing sittingduck.sandia.gov.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is sittingduck.sandia.gov after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  553 We have valid domain with root: sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  372 match validated domain sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'sittingduck.sandia.gov
+',
+          'entities' => [
+                          {
+                            'value' => 'sittingduck.sandia.gov',
+                            'type' => 'domain'
+                          }
+                        ],
+          'flair' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for hostname is now <div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  127 new alert: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => '50.203.149.4',
+                            'type' => 'ipaddr'
+                          },
+                          {
+                            'value' => 'www.osito.org',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'sittingduck.sandia.gov',
+                            'type' => 'domain'
+                          }
+                        ],
+          'id' => 75,
+          'parsed' => 1,
+          'data_with_flair' => {
+                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                 'method' => '<div>GET</div>',
+                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                 'content_disposition' => '<div>text/plain</div>',
+                                 'uri' => '<div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>',
+                                 'status_code' => '<div>500</div>',
+                                 'length' => '<div>0</div>'
+                               }
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  194 Flairing Alert 76
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  198     Alert data is $VAR1 = {
+          'columns' => [
+                         'src',
+                         'status_code',
+                         'method',
+                         'hostname',
+                         'uri',
+                         'referer',
+                         'content_disposition',
+                         'length'
+                       ],
+          'method' => 'GET',
+          'hostname' => 'sittingduck.sandia.gov',
+          'referer' => 'http://www.osito.org/create_an_injection.html',
+          'length' => '346',
+          'uri' => '/lookup.php?q=y;insert into users username="foo" ',
+          'status_code' => 200,
+          'src' => '50.203.149.4',
+          'content_disposition' => 'text/plain'
+        };
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! method is not an ARRAY is $VAR1 = 'GET';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE GET
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = GET
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing GET.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>GET</div>',
+          'text' => 'GET
+'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for method is now <div>GET</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! hostname is not an ARRAY is $VAR1 = 'sittingduck.sandia.gov';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing sittingduck.sandia.gov.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is sittingduck.sandia.gov after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  553 We have valid domain with root: sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  372 match validated domain sittingduck.sandia.gov
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'sittingduck.sandia.gov',
+                            'type' => 'domain'
+                          }
+                        ],
+          'text' => 'sittingduck.sandia.gov
+',
+          'flair' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for hostname is now <div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! referer is not an ARRAY is $VAR1 = 'http://www.osito.org/create_an_injection.html';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE http://www.osito.org/create_an_injection.html
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = http://www.osito.org/create_an_injection.html
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing http://www.osito.org/create_an_injection.html.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is www.osito.org after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  553 We have valid domain with root: osito.org
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  372 match validated domain www.osito.org
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'http://www.osito.org/create_an_injection.html
+',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.osito.org'
+                          }
+                        ],
+          'flair' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for referer is now <div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! length is not an ARRAY is $VAR1 = '346';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE 346
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = 346
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing 346.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => '346
+',
+          'flair' => '<div>346</div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for length is now <div>346</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! uri is not an ARRAY is $VAR1 = '/lookup.php?q=y;insert into users username="foo" ';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE /lookup.php?q=y;insert into users username="foo" 
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = /lookup.php?q=y;insert into users username="foo" 
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing /lookup.php?q=y;insert into users username="foo" .
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on lookup.php
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = lookup.php
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is lookup.php after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain lookup.php
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  338 false match of domain
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => '/lookup.php?q=y;insert into users username="foo"
+',
+          'flair' => '<div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for uri is now <div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! status_code is not an ARRAY is $VAR1 = 200;
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE 200
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = 200
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing 200.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => '200
+',
+          'flair' => '<div>200</div>'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for status_code is now <div>200</div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! src is not an ARRAY is $VAR1 = '50.203.149.4';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing 50.203.149.4.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  544 Domain Action on 50.203.149
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = 50.203.149
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  548 domain is 50.203.149 after deobsfucation
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  579 trying to get root domain 50.203.149
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:14:58    WARN [743109]    Processor.pm:  338 false match of domain
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  482 deobsfucated = 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  372 match validated ipaddr 50.203.149.4
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+          'text' => '50.203.149.4
+',
+          'entities' => [
+                          {
+                            'value' => '50.203.149.4',
+                            'type' => 'ipaddr'
+                          }
+                        ]
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for src is now <div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>
+2022/10/03 23:14:58    WARN [743109]        Flair.pm:  209 WEIRD! content_disposition is not an ARRAY is $VAR1 = 'text/plain';
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  220 WORKING ON CELL VALUE text/plain
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  161          Leaf Node content = text/plain
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  217 Parsing text/plain.
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:14:58   DEBUG [743109]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>text/plain</div>',
+          'text' => 'text/plain
+'
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  302 Flair for content_disposition is now <div>text/plain</div>
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  127 new alert: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'sittingduck.sandia.gov',
+                            'type' => 'domain'
+                          },
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.osito.org'
+                          },
+                          {
+                            'value' => '50.203.149.4',
+                            'type' => 'ipaddr'
+                          }
+                        ],
+          'data_with_flair' => {
+                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                 'method' => '<div>GET</div>',
+                                 'uri' => '<div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>',
+                                 'status_code' => '<div>200</div>',
+                                 'length' => '<div>346</div>',
+                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                 'content_disposition' => '<div>text/plain</div>'
+                               },
+          'id' => 76,
+          'parsed' => 1
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  140 updating with $VAR1 = {
+          'parsed' => 1,
+          'type' => 'alertgroup',
+          'id' => 34,
+          'updated' => 1664860498,
+          'alerts' => [
+                        {
+                          'entities' => [
+                                          {
+                                            'value' => '50.203.149.4',
+                                            'type' => 'ipaddr'
+                                          },
+                                          {
+                                            'value' => 'www.osito.org',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'sittingduck.sandia.gov',
+                                            'type' => 'domain'
+                                          }
+                                        ],
+                          'id' => 75,
+                          'parsed' => 1,
+                          'data_with_flair' => {
+                                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                                 'method' => '<div>GET</div>',
+                                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                                 'content_disposition' => '<div>text/plain</div>',
+                                                 'uri' => '<div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>',
+                                                 'status_code' => '<div>500</div>',
+                                                 'length' => '<div>0</div>'
+                                               }
+                        },
+                        {
+                          'entities' => [
+                                          {
+                                            'value' => 'sittingduck.sandia.gov',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'www.osito.org'
+                                          },
+                                          {
+                                            'value' => '50.203.149.4',
+                                            'type' => 'ipaddr'
+                                          }
+                                        ],
+                          'data_with_flair' => {
+                                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                                 'method' => '<div>GET</div>',
+                                                 'uri' => '<div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>',
+                                                 'status_code' => '<div>200</div>',
+                                                 'length' => '<div>346</div>',
+                                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                                 'content_disposition' => '<div>text/plain</div>'
+                                               },
+                          'id' => 76,
+                          'parsed' => 1
+                        }
+                      ]
+        };
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  152 update alertgroup
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  158 doing mongo update
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  163 after alertgroup update
+2022/10/03 23:14:58   DEBUG [743109]     Messageq.pm:   67 Creating STOMP client
+2022/10/03 23:14:58   DEBUG [743109]        Flair.pm:  144 Done processing alertgroup 34
+2022/10/03 23:14:58   DEBUG [743054]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'subscription' => '16648604840',
+          'priority' => '4',
+          'persistent' => 'true',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:66:-1:1:1',
+          'destination' => '/topic/scot',
+          'amq-msg-type' => 'text',
+          'content-length' => '157',
+          'timestamp' => '1664860498611',
+          'expires' => '0'
+        };
+2022/10/03 23:14:58   DEBUG [743054]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'action' => 'updated',
+          'guid' => '7DB525E0-43A3-11ED-8C91-62DA0E759A8E',
+          'pid' => 743109,
+          'hostname' => 'scot-dev',
+          'data' => {
+                      'id' => 34,
+                      'type' => 'alertgroup',
+                      'who' => 'scot-flair'
+                    }
+        };
+2022/10/03 23:14:58   DEBUG [743054]    Responder.pm:  150  +++ worker 743114 started to handle updated on alertgroup 34
+2022/10/03 23:14:58   DEBUG [743114]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'action' => 'updated',
+          'guid' => '7DB525E0-43A3-11ED-8C91-62DA0E759A8E',
+          'pid' => 743109,
+          'hostname' => 'scot-dev',
+          'data' => {
+                      'id' => 34,
+                      'type' => 'alertgroup',
+                      'who' => 'scot-flair'
+                    }
+        };
+2022/10/03 23:14:58   DEBUG [743114]        Flair.pm:   52 processing message: $VAR1 = {
+          'action' => 'updated',
+          'guid' => '7DB525E0-43A3-11ED-8C91-62DA0E759A8E',
+          'pid' => 743109,
+          'hostname' => 'scot-dev',
+          'data' => {
+                      'id' => 34,
+                      'type' => 'alertgroup',
+                      'who' => 'scot-flair'
+                    }
+        };
+2022/10/03 23:14:58   DEBUG [743114]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:14:58   DEBUG [743109]    Responder.pm:  226 === worker 743109 status is 1
+2022/10/03 23:14:58   ERROR [743109]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:14:58   DEBUG [743114]        Flair.pm:   63 [Wkr 743114] Processing message updated alertgroup 34 from scot-flair
+2022/10/03 23:14:58   DEBUG [743114]        Flair.pm:   66 I guess I sent this message, skipping...
+2022/10/03 23:14:58   DEBUG [743114]    Responder.pm:  226 === worker 743114 status is skipping self message
+2022/10/03 23:14:58   ERROR [743114]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:14:58   DEBUG [743054]    Responder.pm:  162  +++ worker 743109 finished handling created on alertgroup 34. STATUS = 0
+2022/10/03 23:14:58   DEBUG [743054]    Responder.pm:  162  +++ worker 743114 finished handling updated on alertgroup 34. STATUS = 0
+2022/10/03 23:17:17   DEBUG [743054]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'subscription' => '16648604840',
+          'persistent' => 'true',
+          'priority' => '4',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:54:-1:1:4',
+          'destination' => '/topic/scot',
+          'amq-msg-type' => 'text',
+          'content-length' => '147',
+          'timestamp' => '1664860637688',
+          'expires' => '0'
+        };
+2022/10/03 23:17:17   DEBUG [743054]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'data' => {
+                      'id' => 76,
+                      'type' => 'alert',
+                      'who' => 'admin'
+                    },
+          'guid' => 'D09A7738-43A3-11ED-9601-599B0E759A8E',
+          'hostname' => 'scot-dev',
+          'pid' => 726972,
+          'action' => 'deleted'
+        };
+2022/10/03 23:17:17   DEBUG [743054]    Responder.pm:  150  +++ worker 743348 started to handle deleted on alert 76
+2022/10/03 23:17:17   DEBUG [743348]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'data' => {
+                      'id' => 76,
+                      'type' => 'alert',
+                      'who' => 'admin'
+                    },
+          'guid' => 'D09A7738-43A3-11ED-9601-599B0E759A8E',
+          'hostname' => 'scot-dev',
+          'pid' => 726972,
+          'action' => 'deleted'
+        };
+2022/10/03 23:17:17   DEBUG [743348]        Flair.pm:   52 processing message: $VAR1 = {
+          'data' => {
+                      'id' => 76,
+                      'type' => 'alert',
+                      'who' => 'admin'
+                    },
+          'guid' => 'D09A7738-43A3-11ED-9601-599B0E759A8E',
+          'hostname' => 'scot-dev',
+          'pid' => 726972,
+          'action' => 'deleted'
+        };
+2022/10/03 23:17:17   DEBUG [743348]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:17:17   DEBUG [743348]        Flair.pm:   63 [Wkr 743348] Processing message deleted alert 76 from admin
+2022/10/03 23:17:17   ERROR [743348]        Flair.pm:   86 action deleted not processed
+2022/10/03 23:17:17   DEBUG [743348]    Responder.pm:  226 === worker 743348 status is 1
+2022/10/03 23:17:17   ERROR [743348]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:17:17   DEBUG [743054]    Responder.pm:  162  +++ worker 743348 finished handling deleted on alert 76. STATUS = 0

@@ -7,7 +7,7 @@ RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys DE742AFA
 RUN wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | apt-key add -
 
 RUN apt-get update
-RUN apt-get install -qy libmagic-dev libgeoip-dev libmaxminddb0 libmaxminddb-dev mmdb-bin pwgen mongodb-org-shell mongodb-org-tools 
+RUN apt-get install -qy libmagic-dev libgeoip-dev libidn-dev libmaxminddb0 libmaxminddb-dev mmdb-bin pwgen mongodb-org-shell mongodb-org-tools 
 
 RUN curl -fsSL https://raw.githubusercontent.com/skaji/cpm/main/cpm | perl - install -g App::cpm
 RUN cpm install -v -g Carton::Snapshot

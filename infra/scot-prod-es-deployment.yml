@@ -1,0 +1,43 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: scot-es
+  namespace: scot
+  labels:
+    app: scot-es
+spec:
+  selector:
+    matchLabels:
+      app: scot-es
+  revisionHistoryLimit: 1
+  replicas: 1
+  strategy:
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: scot-es
+    spec:
+      containers:
+        - name: scot-es
+          image: 'opensearchproject/opensearch:2.3.0'
+          ports:
+            - containerPort: 9200
+              protocol: TCP
+            - containerPort: 9600
+              protocol: TCP
+          env:
+            - name: discovery.type
+              value: single-node
+      affinity:
+        podAntiAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector:
+                  matchExpressions:
+                    - key: app
+                      operator: In
+                      values:
+                        - web
+                topologyKey: kubernetes.io/hostname

@@ -32,3 +32,8 @@ requires 'AnyEvent::STOMP::Client', '0.41';
 requires 'AnyEvent::ForkManager', '0.07';
 requires 'JSON', '4.09';
 requires 'IO::Prompt', '0.997004';
+requires 'JSON::XS', '4.03';
+requires 'HTML::Element', '5.07';
+requires 'URI::Escape::XS', '0.14';
+requires 'Net::IDN::Encode', '2.500';
+requires 'Net::LibIDN', '0.12';

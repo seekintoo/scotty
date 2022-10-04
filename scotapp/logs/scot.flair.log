@@ -1,0 +1,2526 @@
+2022/10/03 22:50:20   DEBUG [738779] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 22:50:24   DEBUG [738781] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 22:50:46   DEBUG [738903] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 22:50:47   DEBUG [738903]  Enrichments.pm:   51 Building Enrichments...
+2022/10/03 22:51:34   DEBUG [738982] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 22:51:35   DEBUG [738982]  Enrichments.pm:   51 Building Enrichments...
+2022/10/03 22:51:35    INFO [738982]       Worker.pm:  123 Starting PreFork Flair Worker
+2022/10/03 22:51:35   DEBUG [738984]       Worker.pm:  129 [738984] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738985]       Worker.pm:  129 [738985] Spawned Worker
+2022/10/03 22:51:35   ERROR [738984]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [738986]       Worker.pm:  129 [738986] Spawned Worker
+2022/10/03 22:51:35   ERROR [738985]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [738987]       Worker.pm:  129 [738987] Spawned Worker
+2022/10/03 22:51:35   ERROR [738986]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [738988]       Worker.pm:  129 [738988] Spawned Worker
+2022/10/03 22:51:35   ERROR [738987]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738988]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [738989]       Worker.pm:  129 [738989] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738990]       Worker.pm:  129 [738990] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738993]       Worker.pm:  129 [738993] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738995]       Worker.pm:  129 [738995] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738994]       Worker.pm:  129 [738994] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738991]       Worker.pm:  129 [738991] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738992]       Worker.pm:  129 [738992] Spawned Worker
+2022/10/03 22:51:35   ERROR [738989]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [738996]       Worker.pm:  129 [738996] Spawned Worker
+2022/10/03 22:51:35   ERROR [738990]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [738998]       Worker.pm:  129 [738998] Spawned Worker
+2022/10/03 22:51:35   DEBUG [738999]       Worker.pm:  129 [738999] Spawned Worker
+2022/10/03 22:51:35   DEBUG [739000]       Worker.pm:  129 [739000] Spawned Worker
+2022/10/03 22:51:35   ERROR [738995]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738991]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738994]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [739002]       Worker.pm:  129 [739002] Spawned Worker
+2022/10/03 22:51:35   ERROR [738992]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738993]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738998]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738996]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738999]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [738997]       Worker.pm:  129 [738997] Spawned Worker
+2022/10/03 22:51:35   DEBUG [739003]       Worker.pm:  129 [739003] Spawned Worker
+2022/10/03 22:51:35   ERROR [739000]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   DEBUG [739001]       Worker.pm:  129 [739001] Spawned Worker
+2022/10/03 22:51:35   ERROR [739001]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [739002]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [739003]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:35   ERROR [738997]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739004]       Worker.pm:  129 [739004] Spawned Worker
+2022/10/03 22:51:38   DEBUG [739005]       Worker.pm:  129 [739005] Spawned Worker
+2022/10/03 22:51:38   ERROR [739004]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739006]       Worker.pm:  129 [739006] Spawned Worker
+2022/10/03 22:51:38   ERROR [739005]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739007]       Worker.pm:  129 [739007] Spawned Worker
+2022/10/03 22:51:38   ERROR [739006]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739008]       Worker.pm:  129 [739008] Spawned Worker
+2022/10/03 22:51:38   ERROR [739007]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   ERROR [739008]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739009]       Worker.pm:  129 [739009] Spawned Worker
+2022/10/03 22:51:38   DEBUG [739010]       Worker.pm:  129 [739010] Spawned Worker
+2022/10/03 22:51:38   ERROR [739009]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739012]       Worker.pm:  129 [739012] Spawned Worker
+2022/10/03 22:51:38   DEBUG [739011]       Worker.pm:  129 [739011] Spawned Worker
+2022/10/03 22:51:38   ERROR [739010]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   ERROR [739012]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739013]       Worker.pm:  129 [739013] Spawned Worker
+2022/10/03 22:51:38   ERROR [739011]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   ERROR [739013]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739015]       Worker.pm:  129 [739015] Spawned Worker
+2022/10/03 22:51:38   DEBUG [739016]       Worker.pm:  129 [739016] Spawned Worker
+2022/10/03 22:51:38   DEBUG [739014]       Worker.pm:  129 [739014] Spawned Worker
+2022/10/03 22:51:38   DEBUG [739017]       Worker.pm:  129 [739017] Spawned Worker
+2022/10/03 22:51:38   ERROR [739015]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   ERROR [739016]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   ERROR [739014]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739018]       Worker.pm:  129 [739018] Spawned Worker
+2022/10/03 22:51:38   ERROR [739017]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   ERROR [739018]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   DEBUG [739020]       Worker.pm:  129 [739020] Spawned Worker
+2022/10/03 22:51:38   DEBUG [739019]       Worker.pm:  129 [739019] Spawned Worker
+2022/10/03 22:51:38   ERROR [739020]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:38   ERROR [739019]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:39   DEBUG [739025]       Worker.pm:  129 [739025] Spawned Worker
+2022/10/03 22:51:39   DEBUG [739026]       Worker.pm:  129 [739026] Spawned Worker
+2022/10/03 22:51:39   ERROR [739025]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:39   DEBUG [739027]       Worker.pm:  129 [739027] Spawned Worker
+2022/10/03 22:51:39   ERROR [739026]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:39   DEBUG [739028]       Worker.pm:  129 [739028] Spawned Worker
+2022/10/03 22:51:39   ERROR [739027]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:39   ERROR [739028]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:39   DEBUG [739029]       Worker.pm:  129 [739029] Spawned Worker
+2022/10/03 22:51:40   ERROR [739029]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   DEBUG [739030]       Worker.pm:  129 [739030] Spawned Worker
+2022/10/03 22:51:40   DEBUG [739032]       Worker.pm:  129 [739032] Spawned Worker
+2022/10/03 22:51:40   DEBUG [739031]       Worker.pm:  129 [739031] Spawned Worker
+2022/10/03 22:51:40   ERROR [739030]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   ERROR [739032]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   ERROR [739031]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   DEBUG [739033]       Worker.pm:  129 [739033] Spawned Worker
+2022/10/03 22:51:40   DEBUG [739034]       Worker.pm:  129 [739034] Spawned Worker
+2022/10/03 22:51:40   ERROR [739033]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   ERROR [739034]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   DEBUG [739035]       Worker.pm:  129 [739035] Spawned Worker
+2022/10/03 22:51:40   ERROR [739035]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   DEBUG [739036]       Worker.pm:  129 [739036] Spawned Worker
+2022/10/03 22:51:40   DEBUG [739037]       Worker.pm:  129 [739037] Spawned Worker
+2022/10/03 22:51:40   DEBUG [739038]       Worker.pm:  129 [739038] Spawned Worker
+2022/10/03 22:51:40   ERROR [739036]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   ERROR [739037]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   DEBUG [739039]       Worker.pm:  129 [739039] Spawned Worker
+2022/10/03 22:51:40   ERROR [739039]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   ERROR [739038]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   DEBUG [739040]       Worker.pm:  129 [739040] Spawned Worker
+2022/10/03 22:51:40   ERROR [739040]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:40   DEBUG [739041]       Worker.pm:  129 [739041] Spawned Worker
+2022/10/03 22:51:40   ERROR [739041]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739063]       Worker.pm:  129 [739063] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739064]       Worker.pm:  129 [739064] Spawned Worker
+2022/10/03 22:51:41   ERROR [739063]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739064]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739069]       Worker.pm:  129 [739069] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739065]       Worker.pm:  129 [739065] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739067]       Worker.pm:  129 [739067] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739068]       Worker.pm:  129 [739068] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739066]       Worker.pm:  129 [739066] Spawned Worker
+2022/10/03 22:51:41   ERROR [739069]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739068]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739065]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739066]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739082]       Worker.pm:  129 [739082] Spawned Worker
+2022/10/03 22:51:41   ERROR [739067]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739082]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739083]       Worker.pm:  129 [739083] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739084]       Worker.pm:  129 [739084] Spawned Worker
+2022/10/03 22:51:41   ERROR [739084]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739083]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739089]       Worker.pm:  129 [739089] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739091]       Worker.pm:  129 [739091] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739090]       Worker.pm:  129 [739090] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739092]       Worker.pm:  129 [739092] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739085]       Worker.pm:  129 [739085] Spawned Worker
+2022/10/03 22:51:41   DEBUG [739087]       Worker.pm:  129 [739087] Spawned Worker
+2022/10/03 22:51:41   ERROR [739091]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739094]       Worker.pm:  129 [739094] Spawned Worker
+2022/10/03 22:51:41   ERROR [739090]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739094]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739088]       Worker.pm:  129 [739088] Spawned Worker
+2022/10/03 22:51:41   ERROR [739089]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739086]       Worker.pm:  129 [739086] Spawned Worker
+2022/10/03 22:51:41   ERROR [739092]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   DEBUG [739093]       Worker.pm:  129 [739093] Spawned Worker
+2022/10/03 22:51:41   ERROR [739088]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739087]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739085]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739086]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:41   ERROR [739093]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739096]       Worker.pm:  129 [739096] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739097]       Worker.pm:  129 [739097] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739098]       Worker.pm:  129 [739098] Spawned Worker
+2022/10/03 22:51:43   ERROR [739096]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739099]       Worker.pm:  129 [739099] Spawned Worker
+2022/10/03 22:51:43   ERROR [739097]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739100]       Worker.pm:  129 [739100] Spawned Worker
+2022/10/03 22:51:43   ERROR [739098]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739099]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739100]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739102]       Worker.pm:  129 [739102] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739101]       Worker.pm:  129 [739101] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739103]       Worker.pm:  129 [739103] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739104]       Worker.pm:  129 [739104] Spawned Worker
+2022/10/03 22:51:43   ERROR [739103]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739102]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739105]       Worker.pm:  129 [739105] Spawned Worker
+2022/10/03 22:51:43   ERROR [739104]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739101]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739105]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739106]       Worker.pm:  129 [739106] Spawned Worker
+2022/10/03 22:51:43   ERROR [739106]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739109]       Worker.pm:  129 [739109] Spawned Worker
+2022/10/03 22:51:43   ERROR [739109]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739107]       Worker.pm:  129 [739107] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739111]       Worker.pm:  129 [739111] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739113]       Worker.pm:  129 [739113] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739108]       Worker.pm:  129 [739108] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739110]       Worker.pm:  129 [739110] Spawned Worker
+2022/10/03 22:51:43   DEBUG [739112]       Worker.pm:  129 [739112] Spawned Worker
+2022/10/03 22:51:43   ERROR [739111]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739108]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739114]       Worker.pm:  129 [739114] Spawned Worker
+2022/10/03 22:51:43   ERROR [739112]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   DEBUG [739115]       Worker.pm:  129 [739115] Spawned Worker
+2022/10/03 22:51:43   ERROR [739113]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739110]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739115]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739107]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:51:43   ERROR [739114]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:03   DEBUG [739352] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 22:53:04   DEBUG [739352]  Enrichments.pm:   51 Building Enrichments...
+2022/10/03 22:53:04    INFO [739352]       Worker.pm:  123 Starting PreFork Flair Worker
+2022/10/03 22:53:04   DEBUG [739354]       Worker.pm:  129 [739354] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739355]       Worker.pm:  129 [739355] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739356]       Worker.pm:  129 [739356] Spawned Worker
+2022/10/03 22:53:04   ERROR [739354]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739355]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   DEBUG [739357]       Worker.pm:  129 [739357] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739358]       Worker.pm:  129 [739358] Spawned Worker
+2022/10/03 22:53:04   ERROR [739356]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739357]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739358]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   DEBUG [739360]       Worker.pm:  129 [739360] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739359]       Worker.pm:  129 [739359] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739361]       Worker.pm:  129 [739361] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739362]       Worker.pm:  129 [739362] Spawned Worker
+2022/10/03 22:53:04   ERROR [739360]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   DEBUG [739363]       Worker.pm:  129 [739363] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739369]       Worker.pm:  129 [739369] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739365]       Worker.pm:  129 [739365] Spawned Worker
+2022/10/03 22:53:04   ERROR [739359]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739361]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739362]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   DEBUG [739366]       Worker.pm:  129 [739366] Spawned Worker
+2022/10/03 22:53:04   ERROR [739363]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739369]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   DEBUG [739370]       Worker.pm:  129 [739370] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739367]       Worker.pm:  129 [739367] Spawned Worker
+2022/10/03 22:53:04   DEBUG [739364]       Worker.pm:  129 [739364] Spawned Worker
+2022/10/03 22:53:04   ERROR [739367]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739364]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   ERROR [739366]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   DEBUG [739371]       Worker.pm:  129 [739371] Spawned Worker
+2022/10/03 22:53:04   ERROR [739370]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:04   DEBUG [739368]       Worker.pm:  129 [739368] Spawned Worker
+2022/10/03 22:53:04   ERROR [739365]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:05   ERROR [739371]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:05   ERROR [739368]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:05   DEBUG [739372]       Worker.pm:  129 [739372] Spawned Worker
+2022/10/03 22:53:05   DEBUG [739373]       Worker.pm:  129 [739373] Spawned Worker
+2022/10/03 22:53:05   ERROR [739372]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:05   ERROR [739373]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739387]       Worker.pm:  129 [739387] Spawned Worker
+2022/10/03 22:53:08   DEBUG [739388]       Worker.pm:  129 [739388] Spawned Worker
+2022/10/03 22:53:08   ERROR [739387]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739389]       Worker.pm:  129 [739389] Spawned Worker
+2022/10/03 22:53:08   ERROR [739388]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739390]       Worker.pm:  129 [739390] Spawned Worker
+2022/10/03 22:53:08   ERROR [739389]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739391]       Worker.pm:  129 [739391] Spawned Worker
+2022/10/03 22:53:08   ERROR [739390]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   ERROR [739391]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739392]       Worker.pm:  129 [739392] Spawned Worker
+2022/10/03 22:53:08   ERROR [739392]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739395]       Worker.pm:  129 [739395] Spawned Worker
+2022/10/03 22:53:08   DEBUG [739393]       Worker.pm:  129 [739393] Spawned Worker
+2022/10/03 22:53:08   DEBUG [739394]       Worker.pm:  129 [739394] Spawned Worker
+2022/10/03 22:53:08   ERROR [739395]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   ERROR [739394]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   ERROR [739393]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739396]       Worker.pm:  129 [739396] Spawned Worker
+2022/10/03 22:53:08   DEBUG [739397]       Worker.pm:  129 [739397] Spawned Worker
+2022/10/03 22:53:08   ERROR [739397]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   ERROR [739396]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739398]       Worker.pm:  129 [739398] Spawned Worker
+2022/10/03 22:53:08   ERROR [739398]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739400]       Worker.pm:  129 [739400] Spawned Worker
+2022/10/03 22:53:08   DEBUG [739399]       Worker.pm:  129 [739399] Spawned Worker
+2022/10/03 22:53:08   ERROR [739399]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739401]       Worker.pm:  129 [739401] Spawned Worker
+2022/10/03 22:53:08   DEBUG [739402]       Worker.pm:  129 [739402] Spawned Worker
+2022/10/03 22:53:08   ERROR [739400]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739403]       Worker.pm:  129 [739403] Spawned Worker
+2022/10/03 22:53:08   ERROR [739401]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   ERROR [739402]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739404]       Worker.pm:  129 [739404] Spawned Worker
+2022/10/03 22:53:08   ERROR [739403]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739405]       Worker.pm:  129 [739405] Spawned Worker
+2022/10/03 22:53:08   ERROR [739404]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   DEBUG [739406]       Worker.pm:  129 [739406] Spawned Worker
+2022/10/03 22:53:08   ERROR [739405]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 22:53:08   ERROR [739406]        Flair.pl:   28 Flair died because: $VAR1 = [
+          'Can\'t load application from file "/home/jay/scotty/scotapp/Flair.pl": Failed to connect: Error connecting to localhost:61613: Connection refused at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.; giving up at /home/jay/scotty/scotapp/local/lib/perl5/Net/Stomp.pm line 27.
+Compilation failed in require at (eval 102) line 1.
+'
+        ];
+2022/10/03 23:10:36   DEBUG [742532] LoggerFactory.pm:  152 Logger is initialized!
+2022/10/03 23:10:37   DEBUG [742532]  Enrichments.pm:   51 Building Enrichments...
+2022/10/03 23:10:37   DEBUG [742532]    Responder.pm:  110 Building STOMP connection
+2022/10/03 23:10:37   DEBUG [742532]    Responder.pm:  140 Starting Responder Flair daemon /topic/scot
+2022/10/03 23:11:05   DEBUG [742532]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'amq-msg-type' => 'text',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:53:-1:1:7',
+          'persistent' => 'true',
+          'timestamp' => '1664860265986',
+          'priority' => '4',
+          'subscription' => '16648602370',
+          'destination' => '/topic/scot',
+          'expires' => '0',
+          'content-length' => '152'
+        };
+2022/10/03 23:11:05   DEBUG [742532]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'data' => {
+                      'who' => 'admin',
+                      'id' => 31,
+                      'type' => 'alertgroup'
+                    },
+          'guid' => 'F3075F4E-43A2-11ED-98E9-679B0E759A8E',
+          'action' => 'created',
+          'pid' => 726986,
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:11:06   DEBUG [742532]    Responder.pm:  150  +++ worker 742573 started to handle created on alertgroup 31
+2022/10/03 23:11:06   DEBUG [742573]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'data' => {
+                      'who' => 'admin',
+                      'id' => 31,
+                      'type' => 'alertgroup'
+                    },
+          'guid' => 'F3075F4E-43A2-11ED-98E9-679B0E759A8E',
+          'action' => 'created',
+          'pid' => 726986,
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:   52 processing message: $VAR1 = {
+          'data' => {
+                      'who' => 'admin',
+                      'id' => 31,
+                      'type' => 'alertgroup'
+                    },
+          'guid' => 'F3075F4E-43A2-11ED-98E9-679B0E759A8E',
+          'action' => 'created',
+          'pid' => 726986,
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:   63 [Wkr 742573] Processing message created alertgroup 31 from admin
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:   71 --- created message ---
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  106 processing alertgroup 31
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  113 asking scot for /alertgroup/31/alert
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  117 Alerts in AG:$VAR1 = [
+          {
+            'data' => {
+                        'MAIL_TO' => 'br549@sandia.gov',
+                        'columns' => [
+                                       'MAIL_FROM',
+                                       'MAIL_TO',
+                                       'HREFS',
+                                       'SUBJECT'
+                                     ],
+                        'SUBJECT' => 'Groundbreaking research!',
+                        'MAIL_FROM' => 'amlegit@partner.net',
+                        'HREFS' => 'http://spmiller.org/news/please_read.html'
+                      },
+            'tlp' => 'unset',
+            'owner' => 'scot-admin',
+            'updated' => 1664860265,
+            'groups' => {
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ],
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ]
+                        },
+            'id' => 67,
+            'subject' => 'External HREF in Email',
+            'alertgroup' => 31,
+            'entry_count' => 0,
+            'parsed' => 0,
+            'location' => 'snl',
+            'data_with_flair' => {},
+            'columns' => [],
+            'created' => 1664860265,
+            'promotion_id' => 0,
+            'when' => 1664860265,
+            'status' => 'open'
+          },
+          {
+            'owner' => 'scot-admin',
+            'tlp' => 'unset',
+            'data' => {
+                        'SUBJECT' => 'Schedule for next week',
+                        'columns' => [
+                                       'MAIL_FROM',
+                                       'MAIL_TO',
+                                       'HREFS',
+                                       'SUBJECT'
+                                     ],
+                        'MAIL_TO' => 'tbruner@sandia.gov',
+                        'HREFS' => 'https://www.aa.edu/athletics/schedule',
+                        'MAIL_FROM' => 'scbrb@aa.edu'
+                      },
+            'updated' => 1664860265,
+            'groups' => {
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ],
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ]
+                        },
+            'id' => 68,
+            'subject' => 'External HREF in Email',
+            'data_with_flair' => {},
+            'location' => 'snl',
+            'parsed' => 0,
+            'entry_count' => 0,
+            'alertgroup' => 31,
+            'when' => 1664860265,
+            'status' => 'open',
+            'created' => 1664860265,
+            'columns' => [],
+            'promotion_id' => 0
+          },
+          {
+            'alertgroup' => 31,
+            'entry_count' => 0,
+            'parsed' => 0,
+            'location' => 'snl',
+            'data_with_flair' => {},
+            'promotion_id' => 0,
+            'created' => 1664860265,
+            'columns' => [],
+            'status' => 'open',
+            'when' => 1664860265,
+            'data' => {
+                        'MAIL_TO' => 'fmilszx@sandia.gov',
+                        'columns' => [
+                                       'MAIL_FROM',
+                                       'MAIL_TO',
+                                       'HREFS',
+                                       'SUBJECT'
+                                     ],
+                        'SUBJECT' => 'Can not wait!',
+                        'MAIL_FROM' => 'bubba@bbn.com',
+                        'HREFS' => 'https://youtu.be/JAUoeqvedMo'
+                      },
+            'tlp' => 'unset',
+            'owner' => 'scot-admin',
+            'subject' => 'External HREF in Email',
+            'id' => 69,
+            'groups' => {
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ],
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ]
+                        },
+            'updated' => 1664860265
+          }
+        ];
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  194 Flairing Alert 67
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  198     Alert data is $VAR1 = {
+          'MAIL_TO' => 'br549@sandia.gov',
+          'columns' => [
+                         'MAIL_FROM',
+                         'MAIL_TO',
+                         'HREFS',
+                         'SUBJECT'
+                       ],
+          'SUBJECT' => 'Groundbreaking research!',
+          'MAIL_FROM' => 'amlegit@partner.net',
+          'HREFS' => 'http://spmiller.org/news/please_read.html'
+        };
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! MAIL_TO is not an ARRAY is $VAR1 = 'br549@sandia.gov';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE br549@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = br549@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing br549@sandia.gov.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]        Regex.pm:  215 Found 5 regexes
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]        Regex.pm:  242 Found 14 regexes
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated email br549@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'br549@sandia.gov',
+                            'type' => 'email'
+                          }
+                        ],
+          'text' => 'br549@sandia.gov
+'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for MAIL_TO is now <div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! SUBJECT is not an ARRAY is $VAR1 = 'Groundbreaking research!';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE Groundbreaking research!
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = Groundbreaking research!
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing Groundbreaking research!.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'Groundbreaking research!
+',
+          'flair' => '<div>Groundbreaking research!</div>'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for SUBJECT is now <div>Groundbreaking research!</div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! MAIL_FROM is not an ARRAY is $VAR1 = 'amlegit@partner.net';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE amlegit@partner.net
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = amlegit@partner.net
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing amlegit@partner.net.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = partner.net
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated email amlegit@partner.net
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'amlegit@partner.net
+',
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>',
+          'entities' => [
+                          {
+                            'value' => 'partner.net',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'amlegit@partner.net',
+                            'type' => 'email'
+                          }
+                        ]
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for MAIL_FROM is now <div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! HREFS is not an ARRAY is $VAR1 = 'http://spmiller.org/news/please_read.html';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE http://spmiller.org/news/please_read.html
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = http://spmiller.org/news/please_read.html
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing http://spmiller.org/news/please_read.html.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  544 Domain Action on spmiller.org
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = spmiller.org
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  548 domain is spmiller.org after deobsfucation
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  579 trying to get root domain spmiller.org
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  553 We have valid domain with root: spmiller.org
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated domain spmiller.org
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'spmiller.org',
+                            'type' => 'domain'
+                          }
+                        ],
+          'flair' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>',
+          'text' => 'http://spmiller.org/news/please_read.html
+'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for HREFS is now <div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  127 new alert: $VAR1 = {
+          'id' => 67,
+          'parsed' => 1,
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'br549@sandia.gov',
+                            'type' => 'email'
+                          },
+                          {
+                            'value' => 'partner.net',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'amlegit@partner.net',
+                            'type' => 'email'
+                          },
+                          {
+                            'value' => 'spmiller.org',
+                            'type' => 'domain'
+                          }
+                        ],
+          'data_with_flair' => {
+                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                 'SUBJECT' => '<div>Groundbreaking research!</div>',
+                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>',
+                                 'HREFS' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>'
+                               }
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  194 Flairing Alert 68
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  198     Alert data is $VAR1 = {
+          'SUBJECT' => 'Schedule for next week',
+          'columns' => [
+                         'MAIL_FROM',
+                         'MAIL_TO',
+                         'HREFS',
+                         'SUBJECT'
+                       ],
+          'MAIL_TO' => 'tbruner@sandia.gov',
+          'HREFS' => 'https://www.aa.edu/athletics/schedule',
+          'MAIL_FROM' => 'scbrb@aa.edu'
+        };
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! SUBJECT is not an ARRAY is $VAR1 = 'Schedule for next week';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE Schedule for next week
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = Schedule for next week
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing Schedule for next week.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>Schedule for next week</div>',
+          'text' => 'Schedule for next week
+'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for SUBJECT is now <div>Schedule for next week</div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! MAIL_TO is not an ARRAY is $VAR1 = 'tbruner@sandia.gov';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE tbruner@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = tbruner@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing tbruner@sandia.gov.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated email tbruner@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'tbruner@sandia.gov
+',
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'tbruner@sandia.gov',
+                            'type' => 'email'
+                          }
+                        ]
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for MAIL_TO is now <div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! HREFS is not an ARRAY is $VAR1 = 'https://www.aa.edu/athletics/schedule';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE https://www.aa.edu/athletics/schedule
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = https://www.aa.edu/athletics/schedule
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing https://www.aa.edu/athletics/schedule.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  544 Domain Action on www.aa.edu
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = www.aa.edu
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  548 domain is www.aa.edu after deobsfucation
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  579 trying to get root domain www.aa.edu
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  553 We have valid domain with root: aa.edu
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated domain www.aa.edu
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'https://www.aa.edu/athletics/schedule
+',
+          'entities' => [
+                          {
+                            'value' => 'www.aa.edu',
+                            'type' => 'domain'
+                          }
+                        ],
+          'flair' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for HREFS is now <div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! MAIL_FROM is not an ARRAY is $VAR1 = 'scbrb@aa.edu';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE scbrb@aa.edu
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = scbrb@aa.edu
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing scbrb@aa.edu.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = aa.edu
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated email scbrb@aa.edu
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'scbrb@aa.edu
+',
+          'entities' => [
+                          {
+                            'value' => 'aa.edu',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'scbrb@aa.edu',
+                            'type' => 'email'
+                          }
+                        ],
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for MAIL_FROM is now <div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  127 new alert: $VAR1 = {
+          'data_with_flair' => {
+                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>',
+                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>',
+                                 'SUBJECT' => '<div>Schedule for next week</div>',
+                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>'
+                               },
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sandia.gov'
+                          },
+                          {
+                            'value' => 'tbruner@sandia.gov',
+                            'type' => 'email'
+                          },
+                          {
+                            'value' => 'www.aa.edu',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'aa.edu',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'scbrb@aa.edu',
+                            'type' => 'email'
+                          }
+                        ],
+          'parsed' => 1,
+          'id' => 68
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  194 Flairing Alert 69
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  198     Alert data is $VAR1 = {
+          'MAIL_TO' => 'fmilszx@sandia.gov',
+          'columns' => [
+                         'MAIL_FROM',
+                         'MAIL_TO',
+                         'HREFS',
+                         'SUBJECT'
+                       ],
+          'SUBJECT' => 'Can not wait!',
+          'MAIL_FROM' => 'bubba@bbn.com',
+          'HREFS' => 'https://youtu.be/JAUoeqvedMo'
+        };
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! MAIL_TO is not an ARRAY is $VAR1 = 'fmilszx@sandia.gov';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE fmilszx@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = fmilszx@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing fmilszx@sandia.gov.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated email fmilszx@sandia.gov
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'value' => 'sandia.gov',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'fmilszx@sandia.gov',
+                            'type' => 'email'
+                          }
+                        ],
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+          'text' => 'fmilszx@sandia.gov
+'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for MAIL_TO is now <div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! SUBJECT is not an ARRAY is $VAR1 = 'Can not wait!';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE Can not wait!
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = Can not wait!
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing Can not wait!.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'Can not wait!
+',
+          'flair' => '<div>Can not wait!</div>'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for SUBJECT is now <div>Can not wait!</div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! MAIL_FROM is not an ARRAY is $VAR1 = 'bubba@bbn.com';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE bubba@bbn.com
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = bubba@bbn.com
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing bubba@bbn.com.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = bbn.com
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated email bubba@bbn.com
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'bbn.com'
+                          },
+                          {
+                            'type' => 'email',
+                            'value' => 'bubba@bbn.com'
+                          }
+                        ],
+          'flair' => '<div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>',
+          'text' => 'bubba@bbn.com
+'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for MAIL_FROM is now <div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>
+2022/10/03 23:11:06    WARN [742573]        Flair.pm:  209 WEIRD! HREFS is not an ARRAY is $VAR1 = 'https://youtu.be/JAUoeqvedMo';
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  220 WORKING ON CELL VALUE https://youtu.be/JAUoeqvedMo
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  161          Leaf Node content = https://youtu.be/JAUoeqvedMo
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  217 Parsing https://youtu.be/JAUoeqvedMo.
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  544 Domain Action on youtu.be
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  482 deobsfucated = youtu.be
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  548 domain is youtu.be after deobsfucation
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  579 trying to get root domain youtu.be
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  553 We have valid domain with root: youtu.be
+2022/10/03 23:11:06   DEBUG [742573]    Processor.pm:  372 match validated domain youtu.be
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>',
+          'entities' => [
+                          {
+                            'value' => 'youtu.be',
+                            'type' => 'domain'
+                          }
+                        ],
+          'text' => 'https://youtu.be/JAUoeqvedMo
+'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  302 Flair for HREFS is now <div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  127 new alert: $VAR1 = {
+          'parsed' => 1,
+          'id' => 69,
+          'data_with_flair' => {
+                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                 'SUBJECT' => '<div>Can not wait!</div>',
+                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>',
+                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>'
+                               },
+          'entities' => [
+                          {
+                            'value' => 'sandia.gov',
+                            'type' => 'domain'
+                          },
+                          {
+                            'value' => 'fmilszx@sandia.gov',
+                            'type' => 'email'
+                          },
+                          {
+                            'type' => 'domain',
+                            'value' => 'bbn.com'
+                          },
+                          {
+                            'type' => 'email',
+                            'value' => 'bubba@bbn.com'
+                          },
+                          {
+                            'value' => 'youtu.be',
+                            'type' => 'domain'
+                          }
+                        ]
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  140 updating with $VAR1 = {
+          'alerts' => [
+                        {
+                          'id' => 67,
+                          'parsed' => 1,
+                          'entities' => [
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'sandia.gov'
+                                          },
+                                          {
+                                            'value' => 'br549@sandia.gov',
+                                            'type' => 'email'
+                                          },
+                                          {
+                                            'value' => 'partner.net',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'amlegit@partner.net',
+                                            'type' => 'email'
+                                          },
+                                          {
+                                            'value' => 'spmiller.org',
+                                            'type' => 'domain'
+                                          }
+                                        ],
+                          'data_with_flair' => {
+                                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="br549@sandia.gov">br549@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                                 'SUBJECT' => '<div>Groundbreaking research!</div>',
+                                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="amlegit@partner.net">amlegit@<span class="entity domain" data-entity-type="domain" data-entity-value="partner.net">partner.net</span></span></div>',
+                                                 'HREFS' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="spmiller.org">spmiller.org</span>/news/please_read.html</div>'
+                                               }
+                        },
+                        {
+                          'data_with_flair' => {
+                                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="www.aa.edu">www.aa.edu</span>/athletics/schedule</div>',
+                                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="scbrb@aa.edu">scbrb@<span class="entity domain" data-entity-type="domain" data-entity-value="aa.edu">aa.edu</span></span></div>',
+                                                 'SUBJECT' => '<div>Schedule for next week</div>',
+                                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="tbruner@sandia.gov">tbruner@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>'
+                                               },
+                          'entities' => [
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'sandia.gov'
+                                          },
+                                          {
+                                            'value' => 'tbruner@sandia.gov',
+                                            'type' => 'email'
+                                          },
+                                          {
+                                            'value' => 'www.aa.edu',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'aa.edu',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'scbrb@aa.edu',
+                                            'type' => 'email'
+                                          }
+                                        ],
+                          'parsed' => 1,
+                          'id' => 68
+                        },
+                        {
+                          'parsed' => 1,
+                          'id' => 69,
+                          'data_with_flair' => {
+                                                 'MAIL_TO' => '<div><span class="entity email" data-entity-type="email" data-entity-value="fmilszx@sandia.gov">fmilszx@<span class="entity domain" data-entity-type="domain" data-entity-value="sandia.gov">sandia.gov</span></span></div>',
+                                                 'SUBJECT' => '<div>Can not wait!</div>',
+                                                 'MAIL_FROM' => '<div><span class="entity email" data-entity-type="email" data-entity-value="bubba@bbn.com">bubba@<span class="entity domain" data-entity-type="domain" data-entity-value="bbn.com">bbn.com</span></span></div>',
+                                                 'HREFS' => '<div>https://<span class="entity domain" data-entity-type="domain" data-entity-value="youtu.be">youtu.be</span>/JAUoeqvedMo</div>'
+                                               },
+                          'entities' => [
+                                          {
+                                            'value' => 'sandia.gov',
+                                            'type' => 'domain'
+                                          },
+                                          {
+                                            'value' => 'fmilszx@sandia.gov',
+                                            'type' => 'email'
+                                          },
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'bbn.com'
+                                          },
+                                          {
+                                            'type' => 'email',
+                                            'value' => 'bubba@bbn.com'
+                                          },
+                                          {
+                                            'value' => 'youtu.be',
+                                            'type' => 'domain'
+                                          }
+                                        ]
+                        }
+                      ],
+          'parsed' => 1,
+          'updated' => 1664860266,
+          'id' => 31,
+          'type' => 'alertgroup'
+        };
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  152 update alertgroup
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  158 doing mongo update
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  163 after alertgroup update
+2022/10/03 23:11:06   DEBUG [742573]     Messageq.pm:   67 Creating STOMP client
+2022/10/03 23:11:06   DEBUG [742573]        Flair.pm:  144 Done processing alertgroup 31
+2022/10/03 23:11:06   DEBUG [742532]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'subscription' => '16648602370',
+          'priority' => '4',
+          'destination' => '/topic/scot',
+          'expires' => '0',
+          'content-length' => '157',
+          'amq-msg-type' => 'text',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:60:-1:1:1',
+          'persistent' => 'true',
+          'timestamp' => '1664860266768'
+        };
+2022/10/03 23:11:06   DEBUG [742532]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'hostname' => 'scot-dev',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'who' => 'scot-flair',
+                      'id' => 31
+                    },
+          'guid' => 'F384B660-43A2-11ED-B52B-4AD80E759A8E',
+          'action' => 'updated',
+          'pid' => 742573
+        };
+2022/10/03 23:11:06   DEBUG [742532]    Responder.pm:  150  +++ worker 742578 started to handle updated on alertgroup 31
+2022/10/03 23:11:06   DEBUG [742578]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'hostname' => 'scot-dev',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'who' => 'scot-flair',
+                      'id' => 31
+                    },
+          'guid' => 'F384B660-43A2-11ED-B52B-4AD80E759A8E',
+          'action' => 'updated',
+          'pid' => 742573
+        };
+2022/10/03 23:11:06   DEBUG [742578]        Flair.pm:   52 processing message: $VAR1 = {
+          'hostname' => 'scot-dev',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'who' => 'scot-flair',
+                      'id' => 31
+                    },
+          'guid' => 'F384B660-43A2-11ED-B52B-4AD80E759A8E',
+          'action' => 'updated',
+          'pid' => 742573
+        };
+2022/10/03 23:11:06   DEBUG [742578]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:11:06   DEBUG [742573]    Responder.pm:  226 === worker 742573 status is 1
+2022/10/03 23:11:06   ERROR [742573]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:11:06   DEBUG [742578]        Flair.pm:   63 [Wkr 742578] Processing message updated alertgroup 31 from scot-flair
+2022/10/03 23:11:06   DEBUG [742578]        Flair.pm:   66 I guess I sent this message, skipping...
+2022/10/03 23:11:06   DEBUG [742578]    Responder.pm:  226 === worker 742578 status is skipping self message
+2022/10/03 23:11:06   ERROR [742578]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:11:06   DEBUG [742532]    Responder.pm:  162  +++ worker 742573 finished handling created on alertgroup 31. STATUS = 0
+2022/10/03 23:11:06   DEBUG [742532]    Responder.pm:  162  +++ worker 742578 finished handling updated on alertgroup 31. STATUS = 0
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'priority' => '4',
+          'subscription' => '16648602370',
+          'destination' => '/topic/scot',
+          'expires' => '0',
+          'content-length' => '152',
+          'amq-msg-type' => 'text',
+          'timestamp' => '1664860271101',
+          'persistent' => 'true',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:53:-1:1:11'
+        };
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'hostname' => 'scot-dev',
+          'guid' => 'F619EE0E-43A2-11ED-98E9-679B0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'who' => 'admin',
+                      'id' => 32
+                    },
+          'pid' => 726986,
+          'action' => 'created'
+        };
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  150  +++ worker 742584 started to handle created on alertgroup 32
+2022/10/03 23:11:11   DEBUG [742584]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'hostname' => 'scot-dev',
+          'guid' => 'F619EE0E-43A2-11ED-98E9-679B0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'who' => 'admin',
+                      'id' => 32
+                    },
+          'pid' => 726986,
+          'action' => 'created'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:   52 processing message: $VAR1 = {
+          'hostname' => 'scot-dev',
+          'guid' => 'F619EE0E-43A2-11ED-98E9-679B0E759A8E',
+          'data' => {
+                      'type' => 'alertgroup',
+                      'who' => 'admin',
+                      'id' => 32
+                    },
+          'pid' => 726986,
+          'action' => 'created'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:   63 [Wkr 742584] Processing message created alertgroup 32 from admin
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:   71 --- created message ---
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  106 processing alertgroup 32
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  113 asking scot for /alertgroup/32/alert
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  117 Alerts in AG:$VAR1 = [
+          {
+            'status' => 'open',
+            'when' => 1664860271,
+            'promotion_id' => 0,
+            'created' => 1664860271,
+            'columns' => [],
+            'data_with_flair' => {},
+            'location' => 'snl',
+            'parsed' => 0,
+            'entry_count' => 0,
+            'alertgroup' => 32,
+            'subject' => 'SQL Injection Attempts',
+            'updated' => 1664860271,
+            'groups' => {
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ],
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ]
+                        },
+            'id' => 70,
+            'owner' => 'scot-admin',
+            'tlp' => 'unset',
+            'data' => {
+                        'hostname' => 'sittingduck.sandia.gov',
+                        'method' => 'GET',
+                        'status_code' => 500,
+                        'length' => '0',
+                        'referer' => 'http://www.osito.org/create_an_injection.html',
+                        'uri' => '/lookup.php?q=y;insert from users username="foo" ',
+                        'src' => '50.203.149.4',
+                        'content_disposition' => 'text/plain',
+                        'columns' => [
+                                       'src',
+                                       'status_code',
+                                       'method',
+                                       'hostname',
+                                       'uri',
+                                       'referer',
+                                       'content_disposition',
+                                       'length'
+                                     ]
+                      }
+          },
+          {
+            'subject' => 'SQL Injection Attempts',
+            'groups' => {
+                          'read' => [
+                                      'wg-scot-ir',
+                                      'wg-scot-researchers'
+                                    ],
+                          'modify' => [
+                                        'wg-scot-ir'
+                                      ]
+                        },
+            'updated' => 1664860271,
+            'id' => 71,
+            'data' => {
+                        'src' => '50.203.149.4',
+                        'uri' => '/lookup.php?q=y;insert into users username="foo" ',
+                        'referer' => 'http://www.osito.org/create_an_injection.html',
+                        'columns' => [
+                                       'src',
+                                       'status_code',
+                                       'method',
+                                       'hostname',
+                                       'uri',
+                                       'referer',
+                                       'content_disposition',
+                                       'length'
+                                     ],
+                        'content_disposition' => 'text/plain',
+                        'hostname' => 'sittingduck.sandia.gov',
+                        'length' => '346',
+                        'status_code' => 200,
+                        'method' => 'GET'
+                      },
+            'tlp' => 'unset',
+            'owner' => 'scot-admin',
+            'promotion_id' => 0,
+            'created' => 1664860271,
+            'columns' => [],
+            'status' => 'open',
+            'when' => 1664860271,
+            'alertgroup' => 32,
+            'parsed' => 0,
+            'entry_count' => 0,
+            'location' => 'snl',
+            'data_with_flair' => {}
+          }
+        ];
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  194 Flairing Alert 70
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  198     Alert data is $VAR1 = {
+          'hostname' => 'sittingduck.sandia.gov',
+          'method' => 'GET',
+          'status_code' => 500,
+          'length' => '0',
+          'referer' => 'http://www.osito.org/create_an_injection.html',
+          'uri' => '/lookup.php?q=y;insert from users username="foo" ',
+          'src' => '50.203.149.4',
+          'content_disposition' => 'text/plain',
+          'columns' => [
+                         'src',
+                         'status_code',
+                         'method',
+                         'hostname',
+                         'uri',
+                         'referer',
+                         'content_disposition',
+                         'length'
+                       ]
+        };
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! hostname is not an ARRAY is $VAR1 = 'sittingduck.sandia.gov';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing sittingduck.sandia.gov.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]        Regex.pm:  215 Found 5 regexes
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Regex.pm:  242 Found 14 regexes
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is sittingduck.sandia.gov after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  553 We have valid domain with root: sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  372 match validated domain sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sittingduck.sandia.gov'
+                          }
+                        ],
+          'text' => 'sittingduck.sandia.gov
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for hostname is now <div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! method is not an ARRAY is $VAR1 = 'GET';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE GET
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = GET
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing GET.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>GET</div>',
+          'text' => 'GET
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for method is now <div>GET</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! status_code is not an ARRAY is $VAR1 = 500;
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE 500
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = 500
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing 500.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>500</div>',
+          'text' => '500
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for status_code is now <div>500</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! length is not an ARRAY is $VAR1 = '0';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE 0
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = 0
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing 0.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>0</div>',
+          'text' => '0
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for length is now <div>0</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! referer is not an ARRAY is $VAR1 = 'http://www.osito.org/create_an_injection.html';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE http://www.osito.org/create_an_injection.html
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = http://www.osito.org/create_an_injection.html
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing http://www.osito.org/create_an_injection.html.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is www.osito.org after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  553 We have valid domain with root: osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  372 match validated domain www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.osito.org'
+                          }
+                        ],
+          'flair' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+          'text' => 'http://www.osito.org/create_an_injection.html
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for referer is now <div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! uri is not an ARRAY is $VAR1 = '/lookup.php?q=y;insert from users username="foo" ';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE /lookup.php?q=y;insert from users username="foo" 
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = /lookup.php?q=y;insert from users username="foo" 
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing /lookup.php?q=y;insert from users username="foo" .
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on lookup.php
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = lookup.php
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is lookup.php after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain lookup.php
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  338 false match of domain
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => '/lookup.php?q=y;insert from users username="foo"
+',
+          'flair' => '<div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for uri is now <div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! src is not an ARRAY is $VAR1 = '50.203.149.4';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing 50.203.149.4.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on 50.203.149
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = 50.203.149
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is 50.203.149 after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain 50.203.149
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  338 false match of domain
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  372 match validated ipaddr 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+          'entities' => [
+                          {
+                            'value' => '50.203.149.4',
+                            'type' => 'ipaddr'
+                          }
+                        ],
+          'text' => '50.203.149.4
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for src is now <div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! content_disposition is not an ARRAY is $VAR1 = 'text/plain';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE text/plain
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = text/plain
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing text/plain.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'text/plain
+',
+          'flair' => '<div>text/plain</div>'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for content_disposition is now <div>text/plain</div>
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  127 new alert: $VAR1 = {
+          'parsed' => 1,
+          'id' => 70,
+          'data_with_flair' => {
+                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                 'uri' => '<div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>',
+                                 'content_disposition' => '<div>text/plain</div>',
+                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                 'status_code' => '<div>500</div>',
+                                 'method' => '<div>GET</div>',
+                                 'length' => '<div>0</div>'
+                               },
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sittingduck.sandia.gov'
+                          },
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.osito.org'
+                          },
+                          {
+                            'value' => '50.203.149.4',
+                            'type' => 'ipaddr'
+                          }
+                        ]
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  194 Flairing Alert 71
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  198     Alert data is $VAR1 = {
+          'src' => '50.203.149.4',
+          'uri' => '/lookup.php?q=y;insert into users username="foo" ',
+          'referer' => 'http://www.osito.org/create_an_injection.html',
+          'columns' => [
+                         'src',
+                         'status_code',
+                         'method',
+                         'hostname',
+                         'uri',
+                         'referer',
+                         'content_disposition',
+                         'length'
+                       ],
+          'content_disposition' => 'text/plain',
+          'hostname' => 'sittingduck.sandia.gov',
+          'length' => '346',
+          'status_code' => 200,
+          'method' => 'GET'
+        };
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! src is not an ARRAY is $VAR1 = '50.203.149.4';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing 50.203.149.4.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on 50.203.149
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = 50.203.149
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is 50.203.149 after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain 50.203.149
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  338 false match of domain
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  372 match validated ipaddr 50.203.149.4
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+          'entities' => [
+                          {
+                            'type' => 'ipaddr',
+                            'value' => '50.203.149.4'
+                          }
+                        ],
+          'text' => '50.203.149.4
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for src is now <div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! uri is not an ARRAY is $VAR1 = '/lookup.php?q=y;insert into users username="foo" ';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE /lookup.php?q=y;insert into users username="foo" 
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = /lookup.php?q=y;insert into users username="foo" 
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing /lookup.php?q=y;insert into users username="foo" .
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on lookup.php
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = lookup.php
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is lookup.php after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain lookup.php
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  585 root domain error: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  563 Error getting root domain: Invalid TLD
+2022/10/03 23:11:11    WARN [742584]    Processor.pm:  338 false match of domain
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>',
+          'text' => '/lookup.php?q=y;insert into users username="foo"
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for uri is now <div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! referer is not an ARRAY is $VAR1 = 'http://www.osito.org/create_an_injection.html';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE http://www.osito.org/create_an_injection.html
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = http://www.osito.org/create_an_injection.html
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing http://www.osito.org/create_an_injection.html.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is www.osito.org after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  553 We have valid domain with root: osito.org
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  372 match validated domain www.osito.org
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.osito.org'
+                          }
+                        ],
+          'text' => 'http://www.osito.org/create_an_injection.html
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for referer is now <div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! content_disposition is not an ARRAY is $VAR1 = 'text/plain';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE text/plain
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = text/plain
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing text/plain.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>text/plain</div>',
+          'text' => 'text/plain
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for content_disposition is now <div>text/plain</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! hostname is not an ARRAY is $VAR1 = 'sittingduck.sandia.gov';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing sittingduck.sandia.gov.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  544 Domain Action on sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  477 deobsfucating ip/cidr
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  482 deobsfucated = sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  548 domain is sittingduck.sandia.gov after deobsfucation
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  579 trying to get root domain sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  553 We have valid domain with root: sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  372 match validated domain sittingduck.sandia.gov
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'sittingduck.sandia.gov
+',
+          'entities' => [
+                          {
+                            'type' => 'domain',
+                            'value' => 'sittingduck.sandia.gov'
+                          }
+                        ],
+          'flair' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for hostname is now <div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! length is not an ARRAY is $VAR1 = '346';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE 346
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = 346
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing 346.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>346</div>',
+          'text' => '346
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for length is now <div>346</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! status_code is not an ARRAY is $VAR1 = 200;
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE 200
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = 200
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing 200.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'flair' => '<div>200</div>',
+          'text' => '200
+'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for status_code is now <div>200</div>
+2022/10/03 23:11:11    WARN [742584]        Flair.pm:  209 WEIRD! method is not an ARRAY is $VAR1 = 'GET';
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  215 The cell has 1 values in it
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  220 WORKING ON CELL VALUE GET
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:   81 === Processing HTML ===
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.0 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  149      Element 0.1 found, recursing
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  646     looking for crappy splunk ipaddresses
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  161          Leaf Node content = GET
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  217 Parsing GET.
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  241 looking for multi word matches
+2022/10/03 23:11:11   DEBUG [742584]    Processor.pm:  306 looking for single word matches
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  299 todds dumb code extracted: $VAR1 = {
+          'text' => 'GET
+',
+          'flair' => '<div>GET</div>'
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  302 Flair for method is now <div>GET</div>
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  127 new alert: $VAR1 = {
+          'id' => 71,
+          'parsed' => 1,
+          'entities' => [
+                          {
+                            'type' => 'ipaddr',
+                            'value' => '50.203.149.4'
+                          },
+                          {
+                            'type' => 'domain',
+                            'value' => 'www.osito.org'
+                          },
+                          {
+                            'type' => 'domain',
+                            'value' => 'sittingduck.sandia.gov'
+                          }
+                        ],
+          'data_with_flair' => {
+                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                 'method' => '<div>GET</div>',
+                                 'status_code' => '<div>200</div>',
+                                 'length' => '<div>346</div>',
+                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                 'uri' => '<div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>',
+                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                 'content_disposition' => '<div>text/plain</div>'
+                               }
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  140 updating with $VAR1 = {
+          'type' => 'alertgroup',
+          'id' => 32,
+          'updated' => 1664860271,
+          'parsed' => 1,
+          'alerts' => [
+                        {
+                          'parsed' => 1,
+                          'id' => 70,
+                          'data_with_flair' => {
+                                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                                 'uri' => '<div>/lookup.php?q=y;insert from users username=&quot;foo&quot; </div>',
+                                                 'content_disposition' => '<div>text/plain</div>',
+                                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                                 'status_code' => '<div>500</div>',
+                                                 'method' => '<div>GET</div>',
+                                                 'length' => '<div>0</div>'
+                                               },
+                          'entities' => [
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'sittingduck.sandia.gov'
+                                          },
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'www.osito.org'
+                                          },
+                                          {
+                                            'value' => '50.203.149.4',
+                                            'type' => 'ipaddr'
+                                          }
+                                        ]
+                        },
+                        {
+                          'id' => 71,
+                          'parsed' => 1,
+                          'entities' => [
+                                          {
+                                            'type' => 'ipaddr',
+                                            'value' => '50.203.149.4'
+                                          },
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'www.osito.org'
+                                          },
+                                          {
+                                            'type' => 'domain',
+                                            'value' => 'sittingduck.sandia.gov'
+                                          }
+                                        ],
+                          'data_with_flair' => {
+                                                 'hostname' => '<div><span class="entity domain" data-entity-type="domain" data-entity-value="sittingduck.sandia.gov">sittingduck.sandia.gov</span></div>',
+                                                 'method' => '<div>GET</div>',
+                                                 'status_code' => '<div>200</div>',
+                                                 'length' => '<div>346</div>',
+                                                 'referer' => '<div>http://<span class="entity domain" data-entity-type="domain" data-entity-value="www.osito.org">www.osito.org</span>/create_an_injection.html</div>',
+                                                 'uri' => '<div>/lookup.php?q=y;insert into users username=&quot;foo&quot; </div>',
+                                                 'src' => '<div><span class="entity ipaddr" data-entity-type="ipaddr" data-entity-value="50.203.149.4">50.203.149.4</span></div>',
+                                                 'content_disposition' => '<div>text/plain</div>'
+                                               }
+                        }
+                      ]
+        };
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  152 update alertgroup
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  158 doing mongo update
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  163 after alertgroup update
+2022/10/03 23:11:11   DEBUG [742584]     Messageq.pm:   67 Creating STOMP client
+2022/10/03 23:11:11   DEBUG [742584]        Flair.pm:  144 Done processing alertgroup 32
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'amq-msg-type' => 'text',
+          'persistent' => 'true',
+          'timestamp' => '1664860271773',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:61:-1:1:1',
+          'subscription' => '16648602370',
+          'priority' => '4',
+          'destination' => '/topic/scot',
+          'content-length' => '157',
+          'expires' => '0'
+        };
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'guid' => 'F6806A26-43A2-11ED-A277-55D80E759A8E',
+          'data' => {
+                      'id' => 32,
+                      'who' => 'scot-flair',
+                      'type' => 'alertgroup'
+                    },
+          'pid' => 742584,
+          'action' => 'updated',
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  150  +++ worker 742590 started to handle updated on alertgroup 32
+2022/10/03 23:11:11   DEBUG [742590]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'guid' => 'F6806A26-43A2-11ED-A277-55D80E759A8E',
+          'data' => {
+                      'id' => 32,
+                      'who' => 'scot-flair',
+                      'type' => 'alertgroup'
+                    },
+          'pid' => 742584,
+          'action' => 'updated',
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:11:11   DEBUG [742590]        Flair.pm:   52 processing message: $VAR1 = {
+          'guid' => 'F6806A26-43A2-11ED-A277-55D80E759A8E',
+          'data' => {
+                      'id' => 32,
+                      'who' => 'scot-flair',
+                      'type' => 'alertgroup'
+                    },
+          'pid' => 742584,
+          'action' => 'updated',
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:11:11   DEBUG [742590]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:11:11   DEBUG [742584]    Responder.pm:  226 === worker 742584 status is 1
+2022/10/03 23:11:11   ERROR [742584]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:11:11   DEBUG [742590]        Flair.pm:   63 [Wkr 742590] Processing message updated alertgroup 32 from scot-flair
+2022/10/03 23:11:11   DEBUG [742590]        Flair.pm:   66 I guess I sent this message, skipping...
+2022/10/03 23:11:11   DEBUG [742590]    Responder.pm:  226 === worker 742590 status is skipping self message
+2022/10/03 23:11:11   ERROR [742590]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  162  +++ worker 742584 finished handling created on alertgroup 32. STATUS = 0
+2022/10/03 23:11:11   DEBUG [742532]    Responder.pm:  162  +++ worker 742590 finished handling updated on alertgroup 32. STATUS = 0
+2022/10/03 23:12:20   DEBUG [742532]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'content-length' => '175',
+          'expires' => '0',
+          'subscription' => '16648602370',
+          'priority' => '4',
+          'destination' => '/topic/scot',
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:55:-1:1:2',
+          'timestamp' => '1664860340223',
+          'persistent' => 'true',
+          'amq-msg-type' => 'text'
+        };
+2022/10/03 23:12:20   DEBUG [742532]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'data' => {
+                      'type' => 'entity',
+                      'id' => 6,
+                      'who' => 'admin',
+                      'what' => [
+                                  'status',
+                                  'updated'
+                                ]
+                    },
+          'guid' => '1F4CE3EE-43A3-11ED-BE20-639B0E759A8E',
+          'action' => 'updated',
+          'pid' => 726982,
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:12:20   DEBUG [742532]    Responder.pm:  150  +++ worker 742696 started to handle updated on entity 6
+2022/10/03 23:12:20   DEBUG [742696]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'data' => {
+                      'type' => 'entity',
+                      'id' => 6,
+                      'who' => 'admin',
+                      'what' => [
+                                  'status',
+                                  'updated'
+                                ]
+                    },
+          'guid' => '1F4CE3EE-43A3-11ED-BE20-639B0E759A8E',
+          'action' => 'updated',
+          'pid' => 726982,
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:12:20   DEBUG [742696]        Flair.pm:   52 processing message: $VAR1 = {
+          'data' => {
+                      'type' => 'entity',
+                      'id' => 6,
+                      'who' => 'admin',
+                      'what' => [
+                                  'status',
+                                  'updated'
+                                ]
+                    },
+          'guid' => '1F4CE3EE-43A3-11ED-BE20-639B0E759A8E',
+          'action' => 'updated',
+          'pid' => 726982,
+          'hostname' => 'scot-dev'
+        };
+2022/10/03 23:12:20   DEBUG [742696]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:12:20   DEBUG [742696]        Flair.pm:   63 [Wkr 742696] Processing message updated entity 6 from admin
+2022/10/03 23:12:20   DEBUG [742696]        Flair.pm:   71 --- updated message ---
+2022/10/03 23:12:20   ERROR [742696]        Flair.pm:   83 Non processed type entity, skipping
+2022/10/03 23:12:20   DEBUG [742696]    Responder.pm:  226 === worker 742696 status is 1
+2022/10/03 23:12:20   ERROR [742696]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:12:20   DEBUG [742532]    Responder.pm:  162  +++ worker 742696 finished handling updated on entity 6. STATUS = 0
+2022/10/03 23:12:26   DEBUG [742532]    Responder.pm:  212 STOMP HEADER: $VAR1 = {
+          'message-id' => 'ID:activemq-5f998458dc-tgzg8-42895-1664767439857-3:62:-1:1:1',
+          'persistent' => 'true',
+          'timestamp' => '1664860346382',
+          'amq-msg-type' => 'text',
+          'expires' => '0',
+          'content-length' => '175',
+          'priority' => '4',
+          'subscription' => '16648602370',
+          'destination' => '/topic/scot'
+        };
+2022/10/03 23:12:26   DEBUG [742532]    Responder.pm:  213 STOMP BODY  : $VAR1 = {
+          'hostname' => 'scot-dev',
+          'action' => 'updated',
+          'pid' => 726973,
+          'data' => {
+                      'type' => 'entity',
+                      'who' => 'admin',
+                      'what' => [
+                                  'updated',
+                                  'status'
+                                ],
+                      'id' => 6
+                    },
+          'guid' => '22F8CAEE-43A3-11ED-8DCA-5A9B0E759A8E'
+        };
+2022/10/03 23:12:26   DEBUG [742532]    Responder.pm:  150  +++ worker 742704 started to handle updated on entity 6
+2022/10/03 23:12:26   DEBUG [742704]    Responder.pm:  224 MSG HREF: $VAR1 = {
+          'hostname' => 'scot-dev',
+          'action' => 'updated',
+          'pid' => 726973,
+          'data' => {
+                      'type' => 'entity',
+                      'who' => 'admin',
+                      'what' => [
+                                  'updated',
+                                  'status'
+                                ],
+                      'id' => 6
+                    },
+          'guid' => '22F8CAEE-43A3-11ED-8DCA-5A9B0E759A8E'
+        };
+2022/10/03 23:12:26   DEBUG [742704]        Flair.pm:   52 processing message: $VAR1 = {
+          'hostname' => 'scot-dev',
+          'action' => 'updated',
+          'pid' => 726973,
+          'data' => {
+                      'type' => 'entity',
+                      'who' => 'admin',
+                      'what' => [
+                                  'updated',
+                                  'status'
+                                ],
+                      'id' => 6
+                    },
+          'guid' => '22F8CAEE-43A3-11ED-8DCA-5A9B0E759A8E'
+        };
+2022/10/03 23:12:26   DEBUG [742704]        Flair.pm:   54 refreshing entitytypes
+2022/10/03 23:12:26   DEBUG [742704]        Flair.pm:   63 [Wkr 742704] Processing message updated entity 6 from admin
+2022/10/03 23:12:26   DEBUG [742704]        Flair.pm:   71 --- updated message ---
+2022/10/03 23:12:26   ERROR [742704]        Flair.pm:   83 Non processed type entity, skipping
+2022/10/03 23:12:26   DEBUG [742704]    Responder.pm:  226 === worker 742704 status is 1
+2022/10/03 23:12:26   ERROR [742704]        Flair.pl:   25 Flairer died because: $VAR1 = [
+          'Attempt to reload Scot/Collection/Entitytype.pm aborted.
+Compilation failed in require at /home/jay/scotty/scotapp/local/lib/perl5/Module/Runtime.pm line 314.
+'
+        ];
+2022/10/03 23:12:26   DEBUG [742532]    Responder.pm:  162  +++ worker 742704 finished handling updated on entity 6. STATUS = 0
