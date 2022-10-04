@@ -52,7 +52,7 @@
             attr    => 'scot',
             class   => 'Scot::Util::ScotClient',
             config  => {
-                servername  => 'scotserver',
+                servername  => 'scot-dev',
                 # username with sufficient scot perms to create alert(groups)
                 username    => 'scot-alerts',
                 # the password for that user

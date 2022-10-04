@@ -5,7 +5,7 @@
     version     => '3.20.0',
 
     # set this to hostname of the scot server
-    servername  => '$ENV{HOSTNAME}',
+    servername  => 'scot-dev',
 
     # the mode can be prod or dev
     mode        => 'prod',

@@ -4,7 +4,7 @@
         logger_name     => 'SCOT',
         layout          => '%d %7p [%P] %15F{1}: %4L %m%n',
         appender_name   => 'scot_log',
-        logfile         => '/var/log/scot/scot.game.log',
+        logfile         => './logs/game.log',
         log_level       => 'DEBUG',
     },
     days_ago    => 30,

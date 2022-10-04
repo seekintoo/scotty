@@ -25,10 +25,10 @@
             attr    => 'scot',
             class   => 'Scot::Util::ScotClient',
             config  => {
-                servername  => "localhost",
+                servername  => "scot-dev",
                 username    => "scot-alerts",
                 password    => "changemenow",
-                auth_type    => "basic",
+                auth_type    => "Local",
             },
         },
         {

@@ -3,7 +3,7 @@
     # this does flairing for DNS
     mozilla_public_suffix_file  => './conf/public_suffix_list.dat',
     # server name of the SCOT server
-    servername  => 'scot',
+    servername  => 'scot-dev',
     # username with sufficient scot perms to create alert(groups)
     username    => 'scot-alerts',
     # the password for that user
@@ -47,7 +47,7 @@
             attr    => 'scot',
             class   => 'Scot::Util::ScotClient',
             config  => {
-                servername  => 'scot',
+                servername  => 'scot-dev',
                 # username with sufficient scot perms to create alert(groups)
                 username    => 'scot-alerts',
                 # the password for that user

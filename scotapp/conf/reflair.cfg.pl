@@ -1,7 +1,7 @@
 %environment = (
     time_zone   => 'America/Denver',
     # server name of the SCOT server
-    servername  => 'scot',
+    servername  => 'scot-dev',
     # username with sufficient scot perms to create alert(groups)
     username    => 'scot-alerts',
     # the password for that user
@@ -17,7 +17,7 @@
         logger_name     => 'SCOT',
         layout          => '%d %7p [%P] %15F{1}: %4L %m%n',
         appender_name   => 'scot_log',
-        logfile         => './logs/flair.log',
+        logfile         => './logs/reflair.log',
         log_level       => 'DEBUG',
     },
     stomp_host  => "192.168.49.2",
