@@ -5,4 +5,12 @@ Modern refactor of sandialabs / scot
 
 ### /scotty/scotapp
 
-Perl application that can be run in different "modes"
+Refactored (mostly) the instantiation of a perl application that can be run in different "modes" for modern containers.
+
+### /scotty/scotapp/scot
+
+Fork of OG project.
+
+### /scotty/scotapp/scot/scot-gui
+
+Working on this r/n!
