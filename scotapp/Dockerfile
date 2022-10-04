@@ -18,11 +18,17 @@ RUN groupadd -g 2060 scot && \
 RUN echo "export PATH=/home/scot/local/bin:${PATH}" >> /home/scot/.bashrc
 RUN echo "export PERL5LIB=/home/scot/lib:/home/scot/local/lib/perl5" >> /home/scot/.bashrc
 
-COPY . /home/scot/
+COPY conf /home/scot/conf
+COPY cpanfile* /home/scot
+COPY scot/lib /home/scot/lib
+COPY Scot.pl /home/scot
 RUN chown -R scot:scot /home/scot/
 RUN chmod -R 0777 /tmp/
 
 USER scot
+
+ENV PATH=/home/scot/local/bin:${PATH}
+ENV PERL5LIB=/home/scot/lib:/home/scot/local/lib/perl5
 WORKDIR /home/scot
 
 RUN cpm install -v
