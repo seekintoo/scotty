@@ -7,10 +7,13 @@ RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys DE742AFA
 RUN wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | apt-key add -
 
 RUN apt-get update
-RUN apt-get install -qy libmagic-dev libgeoip-dev libidn-dev libmaxminddb0 libmaxminddb-dev mmdb-bin pwgen mongodb-org-shell mongodb-org-tools 
+RUN apt-get install -qy libmagic-dev libgeoip-dev libidn11-dev libmaxminddb0 libmaxminddb-dev mmdb-bin pwgen mongodb-org-shell mongodb-org-tools 
 
 RUN curl -fsSL https://raw.githubusercontent.com/skaji/cpm/main/cpm | perl - install -g App::cpm
 RUN cpm install -v -g Carton::Snapshot
+COPY File-Magic-0.01.tar.gz .
+RUN tar xvzf File-Magic-0.01.tar.gz --no-same-owner
+RUN cd File-Magic-0.01; perl Makefile.PL; make; make test; make install
 
 RUN groupadd -g 2060 scot && \
     useradd -s /bin/bash -r -m -u 1060 -g scot scot
@@ -22,6 +25,8 @@ COPY conf /home/scot/conf
 COPY cpanfile* /home/scot
 COPY scot/lib /home/scot/lib
 COPY Scot.pl /home/scot
+COPY Stretch.pl /home/scot
+COPY Flair.pl /home/scot
 RUN chown -R scot:scot /home/scot/
 RUN chmod -R 0777 /tmp/
 

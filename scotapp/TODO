@@ -10,22 +10,34 @@
 3 scot logs to stdout. tried once, not working :(
 4 unit testing
 5 isready for scot and dependancies within ns
+6 subdir in okd builder scotapp
+7 Mail alert not working yet
+8 document api reality (fields in data, not outside)
+9 refactor elasticproxy (mabye other es module too?)
+10 dark mode obviously
 
 reflair
 game
 rfproxy? probably no recorded future thing
 
-docker image new build
-----
-Parallel::Prefork 0.18
-Domain::PublicSuffix 0.19
-HTML::FormatText 2.16
-Net::IPv6Addr 1.02
-SVG::Sparkline 1.12
-utf8::all 0.024
-List::Uniq 0.23
-Mozilla::PublicSuffix 1.0.6
 
-tar xzf ./install/src/perl/File-Magic-0.01.tar.gz -C /tmp
-(cd /tmp/File-Magic-0.01; perl Makefile.PL; make; make test; make install)
-sudo make install
+tested dev on ubuntu 22.04 w perl 5.34 no issue
+
+
+entrypoints for other agents
+
+Stretch     hypnotoad -f ./Stretch.pl
+Flair       hypnotoad -f ./Flair.pl
+Game        perl Game.pl (cron)
+Alert       ?
+
+enter container as root without running entrypoint
+
+podman run -it --user root --entrypoint /bin/bash newscot1
+
+
+bugs
+----
+tasks deleted do not update linked stuff and never go away? works in demo
+entries field nees to be wider
+delete does not update browser (mq?)
