@@ -9,7 +9,7 @@ Refactored (mostly) the instantiation of a perl application that can be run in d
 
 ### /scotty/scotapp/scot
 
-Fork of OG project.
+Fork of OG project. Some changes made to support the revisions and some bug-fixes.
 
 ### /scotty/scotapp/scot/scot-gui
 
