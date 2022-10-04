@@ -1,0 +1,3 @@
+[submodule "scot"]
+	path = scot
+	url = https://github.com/seekintoo/scot.git
