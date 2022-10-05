@@ -58,6 +58,8 @@ pending flair messages for flairer queue
 tags dont flow to events
 delete incident doesnt update event to "unpromoted"?
 create task: fail to get entity detail id information
+flairer note creating es entities on alert create/flair?
+undefined incident handler causes problems crash js in browser?
 
 
 
