@@ -17,11 +17,13 @@ fixed sort of. need to clean up 3 scot logs to stdout. tried once, not working :
 10 dark mode obviously
 11 misp/coretex enrichers?
 12 es index creation
-
+13 redo docker once more
+14 split different perl apps into minimial sets for containers
+15 increment user collection in init!
 
 reflair
 game
-rfproxy? probably no recorded future thing
+rfproxy not needed r/n recorded future thing use as api example
 
 
 tested dev on ubuntu 22.04 w perl 5.34 no issue
@@ -55,3 +57,10 @@ cant rename alerts or alertgroups
 pending flair messages for flairer queue
 tags dont flow to events
 delete incident doesnt update event to "unpromoted"?
+create task: fail to get entity detail id information
+
+
+
+
+forced npm modules:
+react-time

@@ -46,3 +46,4 @@ requires 'utf8::all', '0.024';
 requires 'List::Uniq', '0.23';
 requires 'Mozilla::PublicSuffix', '1.0.6';
 requires 'Parallel::ForkManager', '2.02';
+Lingua::EN::Segmenter 0.1
