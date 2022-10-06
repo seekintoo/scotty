@@ -27,6 +27,9 @@ COPY scot/lib /home/scot/lib
 COPY Scot.pl /home/scot
 COPY Stretch.pl /home/scot
 COPY Flair.pl /home/scot
+COPY Enrich.pl /home/scot
+COPY Game.pl /home/scot
+COPY Reflair.pl /home/scot
 RUN chown -R scot:scot /home/scot/
 RUN chmod -R 0777 /tmp/
 
