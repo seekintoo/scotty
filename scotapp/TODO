@@ -15,6 +15,7 @@ done 10/5/2022 - 13 redo docker once more
 15 increment user collection in init!
 16 entity > observable
 17 location > customer/tenant
+18 no manually specify even id when adding alert to existing event
 
 
 
