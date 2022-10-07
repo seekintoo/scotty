@@ -14,6 +14,7 @@ done 10/5/2022 - 13 redo docker once more
 14 split different perl apps into minimial sets for containers
 15 increment user collection in init!
 16 entity > observable
+17 location > customer/tenant
 
 
 
@@ -56,12 +57,13 @@ Userconfig.js "Warning: <Broadcast> is deprecated and will be removed in the nex
 wierd duplication in links dialog
 scotforcegraph broken!
 entity window says green audit button but it is white
-
+location working in api post and alertgroup view but not promotion. changes to "local"
 
 
 forced npm modules:
 react-time
-
+webpack
+webpack-cli
 
 
 
