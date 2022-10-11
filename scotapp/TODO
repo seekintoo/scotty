@@ -17,7 +17,11 @@ done 10/5/2022 - 13 redo docker once more
 17 location > customer/tenant
 18 no manually specify even id when adding alert to existing event
 19 entity locations (global or tenant? for ex. local ips)
-
+20 apikey location field
+21 deleting alerts should reduce linked flair count on alerts (looks accurate in all other locations)
+22 clicking on entries should not create a new entry box automatically as there is a new button
+23 promote entries too!
+24 guide > playbook
 
 tested dev on ubuntu 22.04 w perl 5.34 no issue
 
@@ -59,7 +63,14 @@ wierd duplication in links dialog
 scotforcegraph broken!
 entity window says green audit button but it is white
 location working in api post and alertgroup view but not promotion. changes to "local"
-
+click promoted in alert opens new window not same
+links window is screwed
+unpromote on delete! or delete cascade
+tasks do not delete on entry delete via parent delete (eg event in this case)
+entity history broken
+guide > alert changing tabs does not update alert table
+guides mess up the listviews (cookies?)
+es entries not deleting correctly
 
 forced npm modules:
 react-time
